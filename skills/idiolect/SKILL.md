@@ -1,11 +1,11 @@
 ---
 name: idiolect
-description: Comando /idiolect <pedido>. Escreve textos acadêmicos sobre qualquer tema no estilo pessoal do autor (vocabulário, conectivos, ritmo, argumentação), seguindo o perfil em profile/ e medindo o resultado com idiolect.py compare. Também revisa textos e calibra o perfil com o feedback do autor. Use somente quando o pedido começar com /idiolect.
+description: Comando idiolect <pedido>. Escreve textos acadêmicos sobre qualquer tema no estilo pessoal do autor (vocabulário, conectivos, ritmo, argumentação), seguindo o perfil em profile/ e medindo o resultado com idiolect.py compare. Também revisa textos e calibra o perfil com o feedback do autor. Use somente quando o pedido começar com idiolect.
 ---
 
-# /idiolect: escrever no estilo do autor
+# idiolect: escrever no estilo do autor
 
-O texto depois de `/idiolect` é o pedido. Exemplos: "escreva uma introdução sobre energia solar em escolas
+O texto depois de `idiolect` é o pedido. Exemplos: "escreva uma introdução sobre energia solar em escolas
 públicas, ~500 palavras", "revise este texto", "não soou como eu porque...".
 
 ## 0. Localize os arquivos
@@ -13,7 +13,7 @@ públicas, ~500 palavras", "revise este texto", "não soou como eu porque...".
 Trabalhe a partir da raiz do repositório (onde está `scripts/idiolect.py`): use `profile/` e
 `python scripts/idiolect.py compare`.
 
-Se `profile/style.md` não existir, o perfil ainda não foi gerado. Siga antes o comando `/idiolect-setup`.
+Se `profile/style.md` não existir, o perfil ainda não foi gerado. Siga antes o comando `idiolect setup`.
 
 ## 1. Leia o perfil
 

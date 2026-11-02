@@ -1,9 +1,9 @@
 ---
 name: idiolect-setup
-description: Comando /idiolect-setup. Gera ou atualiza o perfil de estilo de escrita do autor a partir dos textos em data/ (métricas com scripts/idiolect.py e leitura do corpus), preenchendo profile/. Use somente quando o pedido começar com /idiolect-setup.
+description: Comando idiolect setup. Gera ou atualiza o perfil de estilo de escrita do autor a partir dos textos em data/ (métricas com scripts/idiolect.py e leitura do corpus), preenchendo profile/. Use somente quando o pedido começar com idiolect setup.
 ---
 
-# /idiolect-setup: gerar o perfil de estilo
+# idiolect setup: gerar o perfil de estilo
 
 Objetivo: produzir em `profile/` uma descrição do estilo do autor precisa o bastante para que qualquer LLM
 escreva sobre **qualquer tema** como ele (mesmo vocabulário, conectivos, ritmo e lógica argumentativa).
@@ -105,7 +105,7 @@ Critérios para todo o perfil:
 ## 5. Teste e refine
 
 1. Escreva um texto de ~400 palavras sobre um tema **fora** da área do autor, seguindo o comando
-   `/idiolect`, e salve em `drafts/setup-test.md`.
+   `idiolect`, e salve em `drafts/setup-test.md`.
 2. Rode `python scripts/idiolect.py compare drafts/setup-test.md`.
 3. Se o veredito não for "compatível", identifique a regra do perfil que estava vaga, ausente ou errada,
    corrija-a e teste de novo. Faça no máximo 3 rodadas.
@@ -116,4 +116,4 @@ Responda ao usuário com:
 - os 5 traços mais marcantes do estilo dele;
 - o veredito do teste;
 - o texto de teste, para ele dizer o que "não soa como ele" (isso alimenta a calibração da skill
-  `/idiolect`).
+  `idiolect`).
