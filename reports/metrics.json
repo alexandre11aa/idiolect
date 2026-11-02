@@ -1,0 +1,8112 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-10-27T23:32:25+00:00",
+  "language": "pt-BR",
+  "settings": {
+    "data_dir": "/sessions/rcw-014u7ugtffqfmelcq8cvkyvi/mnt/idiolect/data",
+    "chunk_sizes": [
+      250,
+      500,
+      1000,
+      2000
+    ],
+    "lang": "pt-BR",
+    "min_sentence_tokens": 3
+  },
+  "corpus": {
+    "documents": [
+      {
+        "file": "Artigo_COOPEX_Equacoes_Chuvas_Intensas.md",
+        "title": null,
+        "type": "article",
+        "year": null,
+        "coauthored": false,
+        "own_sections": [],
+        "words": 4125,
+        "sentences": 154,
+        "paragraphs": 58,
+        "mean_sentence_length": 26.786,
+        "sections_included": {
+          "abstract": 1,
+          "introduction": 4,
+          "literature_review": 20,
+          "methodology": 13,
+          "results_discussion": 16,
+          "conclusion": 4
+        },
+        "sections_excluded": {
+          "references": 18
+        },
+        "block_quotes_removed": 0,
+        "language": "pt",
+        "dropped": {
+          "texto antes do primeiro título (capa, folha de rosto)": 7,
+          "legendas, fontes e palavras-chave": 16,
+          "parágrafos em outro idioma (en)": 1,
+          "legendas de fórmulas": 2,
+          "fragmentos sem pontuação final (capa, títulos)": 6
+        }
+      },
+      {
+        "file": "Artigo_COOPEX_GeoBi_Microdrenagem.md",
+        "title": null,
+        "type": "article",
+        "year": null,
+        "coauthored": false,
+        "own_sections": [],
+        "words": 2103,
+        "sentences": 74,
+        "paragraphs": 34,
+        "mean_sentence_length": 28.419,
+        "sections_included": {
+          "abstract": 1,
+          "introduction": 4,
+          "literature_review": 12,
+          "methodology": 5,
+          "other": 10,
+          "conclusion": 2
+        },
+        "sections_excluded": {
+          "references": 11
+        },
+        "block_quotes_removed": 0,
+        "language": "pt",
+        "dropped": {
+          "texto antes do primeiro título (capa, folha de rosto)": 7,
+          "legendas, fontes e palavras-chave": 22,
+          "parágrafos em outro idioma (en)": 1,
+          "legendas de fórmulas": 9,
+          "fragmentos sem pontuação final (capa, títulos)": 10
+        }
+      },
+      {
+        "file": "Coletanea_Equacoes_Chuvas_Intensas_Paraiba.md",
+        "title": null,
+        "type": "other",
+        "year": null,
+        "coauthored": false,
+        "own_sections": [],
+        "words": 2140,
+        "sentences": 92,
+        "paragraphs": 39,
+        "mean_sentence_length": 23.261,
+        "sections_included": {
+          "abstract": 1,
+          "introduction": 7,
+          "methodology": 19,
+          "results_discussion": 7,
+          "conclusion": 5
+        },
+        "sections_excluded": {
+          "references": 20,
+          "front_matter": 2
+        },
+        "block_quotes_removed": 0,
+        "language": "pt",
+        "dropped": {
+          "texto antes do primeiro título (capa, folha de rosto)": 1,
+          "legendas, fontes e palavras-chave": 40,
+          "fragmentos sem pontuação final (capa, títulos)": 17,
+          "parágrafos em outro idioma (en)": 1,
+          "parágrafos em outro idioma (es)": 1,
+          "legendas de fórmulas": 33
+        }
+      },
+      {
+        "file": "Dissertacao_Mestrado_Tecnologia_da_Informacao.md",
+        "title": null,
+        "type": "dissertation",
+        "year": null,
+        "coauthored": false,
+        "own_sections": [],
+        "words": 18056,
+        "sentences": 663,
+        "paragraphs": 202,
+        "mean_sentence_length": 27.82,
+        "sections_included": {
+          "abstract": 1,
+          "introduction": 30,
+          "methodology": 83,
+          "literature_review": 57,
+          "results": 16,
+          "discussion": 11,
+          "conclusion": 31,
+          "other": 37
+        },
+        "sections_excluded": {
+          "front_matter": 8,
+          "acknowledgements": 8,
+          "references": 107
+        },
+        "block_quotes_removed": 2,
+        "language": "pt",
+        "dropped": {
+          "texto antes do primeiro título (capa, folha de rosto)": 9,
+          "legendas, fontes e palavras-chave": 110,
+          "fragmentos sem pontuação final (capa, títulos)": 40,
+          "parágrafos em outro idioma (en)": 2,
+          "legendas de fórmulas": 6
+        }
+      },
+      {
+        "file": "IMD_Visao_Computacional_Areas_Verdes.md",
+        "title": null,
+        "type": "other",
+        "year": null,
+        "coauthored": false,
+        "own_sections": [],
+        "words": 2205,
+        "sentences": 78,
+        "paragraphs": 27,
+        "mean_sentence_length": 28.269,
+        "sections_included": {
+          "abstract": 1,
+          "introduction": 3,
+          "methodology": 7,
+          "results": 13,
+          "conclusion": 3
+        },
+        "sections_excluded": {},
+        "block_quotes_removed": 0,
+        "language": "pt",
+        "dropped": {
+          "texto antes do primeiro título (capa, folha de rosto)": 2,
+          "legendas, fontes e palavras-chave": 26,
+          "parágrafos em outro idioma (en)": 1,
+          "fragmentos sem pontuação final (capa, títulos)": 10
+        }
+      },
+      {
+        "file": "TCC_Engenharia_Civil.md",
+        "title": null,
+        "type": "undergraduate_thesis",
+        "year": null,
+        "coauthored": false,
+        "own_sections": [],
+        "words": 8831,
+        "sentences": 358,
+        "paragraphs": 156,
+        "mean_sentence_length": 24.826,
+        "sections_included": {
+          "abstract": 1,
+          "introduction": 13,
+          "literature_review": 98,
+          "methodology": 22,
+          "results_discussion": 25,
+          "conclusion": 4
+        },
+        "sections_excluded": {
+          "acknowledgements": 8,
+          "front_matter": 2,
+          "references": 43,
+          "appendix": 55
+        },
+        "block_quotes_removed": 0,
+        "language": "pt",
+        "dropped": {
+          "texto antes do primeiro título (capa, folha de rosto)": 12,
+          "legendas, fontes e palavras-chave": 75,
+          "parágrafos em outro idioma (en)": 1,
+          "fragmentos sem pontuação final (capa, títulos)": 29,
+          "legendas de fórmulas": 33
+        }
+      },
+      {
+        "file": "TCC_Engenharia_de_Estruturas_e_Fundacoes.md",
+        "title": null,
+        "type": "undergraduate_thesis",
+        "year": null,
+        "coauthored": false,
+        "own_sections": [],
+        "words": 4697,
+        "sentences": 177,
+        "paragraphs": 70,
+        "mean_sentence_length": 26.537,
+        "sections_included": {
+          "abstract": 1,
+          "introduction": 7,
+          "literature_review": 17,
+          "methodology": 6,
+          "results": 37,
+          "conclusion": 2
+        },
+        "sections_excluded": {
+          "references": 16
+        },
+        "block_quotes_removed": 0,
+        "language": "pt",
+        "dropped": {
+          "texto antes do primeiro título (capa, folha de rosto)": 3,
+          "legendas, fontes e palavras-chave": 47,
+          "parágrafos em outro idioma (en)": 1,
+          "legendas de fórmulas": 14,
+          "fragmentos sem pontuação final (capa, títulos)": 19
+        }
+      }
+    ],
+    "skipped": [
+      {
+        "file": "Artigo_IMD_Interpolacao_Espacial_ML.md",
+        "reason": "idioma detectado: en (análise atual: pt-BR)"
+      }
+    ],
+    "total_documents": 7,
+    "total_words": 42157,
+    "total_sentences": 1596,
+    "total_paragraphs": 586,
+    "total_list_items": 71,
+    "inline_quotes_removed": 0,
+    "block_quotes_removed": 2
+  },
+  "sentences": {
+    "length": {
+      "n": 1516,
+      "mean": 26.648,
+      "sd": 11.837,
+      "min": 4,
+      "p10": 12.0,
+      "p25": 18.0,
+      "median": 25.0,
+      "p75": 34.0,
+      "p90": 42.0,
+      "max": 101
+    },
+    "short_share_le_12_words": 0.105,
+    "long_share_ge_40_words": 0.135,
+    "question_share": 0.005,
+    "top_first_words": [
+      {
+        "word": "a",
+        "count": 184,
+        "per_10k": 43.65
+      },
+      {
+        "word": "o",
+        "count": 108,
+        "per_10k": 25.62
+      },
+      {
+        "word": "para",
+        "count": 82,
+        "per_10k": 19.45
+      },
+      {
+        "word": "assim",
+        "count": 52,
+        "per_10k": 12.33
+      },
+      {
+        "word": "os",
+        "count": 51,
+        "per_10k": 12.1
+      },
+      {
+        "word": "é",
+        "count": 48,
+        "per_10k": 11.39
+      },
+      {
+        "word": "já",
+        "count": 46,
+        "per_10k": 10.91
+      },
+      {
+        "word": "com",
+        "count": 38,
+        "per_10k": 9.01
+      },
+      {
+        "word": "em",
+        "count": 38,
+        "per_10k": 9.01
+      },
+      {
+        "word": "‹autor›",
+        "count": 35,
+        "per_10k": 8.3
+      },
+      {
+        "word": "por",
+        "count": 32,
+        "per_10k": 7.59
+      },
+      {
+        "word": "como",
+        "count": 28,
+        "per_10k": 6.64
+      },
+      {
+        "word": "as",
+        "count": 26,
+        "per_10k": 6.17
+      },
+      {
+        "word": "no",
+        "count": 25,
+        "per_10k": 5.93
+      },
+      {
+        "word": "além",
+        "count": 25,
+        "per_10k": 5.93
+      },
+      {
+        "word": "também",
+        "count": 23,
+        "per_10k": 5.46
+      },
+      {
+        "word": "após",
+        "count": 22,
+        "per_10k": 5.22
+      },
+      {
+        "word": "contudo",
+        "count": 21,
+        "per_10k": 4.98
+      },
+      {
+        "word": "ela",
+        "count": 20,
+        "per_10k": 4.74
+      },
+      {
+        "word": "isso",
+        "count": 20,
+        "per_10k": 4.74
+      },
+      {
+        "word": "seguindo",
+        "count": 17,
+        "per_10k": 4.03
+      },
+      {
+        "word": "de",
+        "count": 15,
+        "per_10k": 3.56
+      },
+      {
+        "word": "e",
+        "count": 15,
+        "per_10k": 3.56
+      },
+      {
+        "word": "porém",
+        "count": 14,
+        "per_10k": 3.32
+      },
+      {
+        "word": "uma",
+        "count": 14,
+        "per_10k": 3.32
+      },
+      {
+        "word": "ele",
+        "count": 13,
+        "per_10k": 3.08
+      },
+      {
+        "word": "esse",
+        "count": 13,
+        "per_10k": 3.08
+      },
+      {
+        "word": "eles",
+        "count": 13,
+        "per_10k": 3.08
+      },
+      {
+        "word": "nesse",
+        "count": 12,
+        "per_10k": 2.85
+      },
+      {
+        "word": "na",
+        "count": 12,
+        "per_10k": 2.85
+      }
+    ],
+    "top_first_two_words": [
+      {
+        "opener": "é possível",
+        "count": 28,
+        "per_10k": 6.64
+      },
+      {
+        "opener": "além disso",
+        "count": 24,
+        "per_10k": 5.69
+      },
+      {
+        "opener": "por fim",
+        "count": 23,
+        "per_10k": 5.46
+      },
+      {
+        "opener": "a partir",
+        "count": 16,
+        "per_10k": 3.8
+      },
+      {
+        "opener": "já o",
+        "count": 15,
+        "per_10k": 3.56
+      },
+      {
+        "opener": "assim sendo",
+        "count": 14,
+        "per_10k": 3.32
+      },
+      {
+        "opener": "também é",
+        "count": 13,
+        "per_10k": 3.08
+      },
+      {
+        "opener": "é importante",
+        "count": 12,
+        "per_10k": 2.85
+      },
+      {
+        "opener": "para o",
+        "count": 11,
+        "per_10k": 2.61
+      },
+      {
+        "opener": "no entanto",
+        "count": 11,
+        "per_10k": 2.61
+      },
+      {
+        "opener": "seguindo para",
+        "count": 11,
+        "per_10k": 2.61
+      },
+      {
+        "opener": "como resultado",
+        "count": 10,
+        "per_10k": 2.37
+      },
+      {
+        "opener": "a primeira",
+        "count": 10,
+        "per_10k": 2.37
+      },
+      {
+        "opener": "sabendo disso",
+        "count": 9,
+        "per_10k": 2.13
+      },
+      {
+        "opener": "para a",
+        "count": 9,
+        "per_10k": 2.13
+      },
+      {
+        "opener": "já para",
+        "count": 9,
+        "per_10k": 2.13
+      },
+      {
+        "opener": "com a",
+        "count": 9,
+        "per_10k": 2.13
+      },
+      {
+        "opener": "a escolha",
+        "count": 8,
+        "per_10k": 1.9
+      },
+      {
+        "opener": "a figura",
+        "count": 8,
+        "per_10k": 1.9
+      },
+      {
+        "opener": "em relação",
+        "count": 8,
+        "per_10k": 1.9
+      },
+      {
+        "opener": "em posse",
+        "count": 7,
+        "per_10k": 1.66
+      },
+      {
+        "opener": "em seguida",
+        "count": 7,
+        "per_10k": 1.66
+      },
+      {
+        "opener": "os dados",
+        "count": 7,
+        "per_10k": 1.66
+      },
+      {
+        "opener": "ela é",
+        "count": 6,
+        "per_10k": 1.42
+      },
+      {
+        "opener": "o presente",
+        "count": 6,
+        "per_10k": 1.42
+      },
+      {
+        "opener": "assim a",
+        "count": 6,
+        "per_10k": 1.42
+      },
+      {
+        "opener": "para que",
+        "count": 6,
+        "per_10k": 1.42
+      },
+      {
+        "opener": "de forma",
+        "count": 6,
+        "per_10k": 1.42
+      },
+      {
+        "opener": "assim o",
+        "count": 6,
+        "per_10k": 1.42
+      },
+      {
+        "opener": "o modelo",
+        "count": 6,
+        "per_10k": 1.42
+      }
+    ]
+  },
+  "paragraphs": {
+    "words": {
+      "n": 586,
+      "mean": 68.939,
+      "sd": 33.748,
+      "min": 4,
+      "p10": 27.0,
+      "p25": 44.25,
+      "median": 66.0,
+      "p75": 90.0,
+      "p90": 112.5,
+      "max": 273
+    },
+    "sentences": {
+      "n": 586,
+      "mean": 2.587,
+      "sd": 1.268,
+      "min": 1,
+      "p10": 1.0,
+      "p25": 2.0,
+      "median": 2.0,
+      "p75": 3.0,
+      "p90": 4.0,
+      "max": 11
+    },
+    "single_sentence_share": 0.203,
+    "top_first_three_words": [
+      {
+        "opener": "a escolha de",
+        "count": 4,
+        "per_10k": 0.95
+      },
+      {
+        "opener": "este capítulo apresenta",
+        "count": 4,
+        "per_10k": 0.95
+      },
+      {
+        "opener": "nesta seção serão",
+        "count": 4,
+        "per_10k": 0.95
+      },
+      {
+        "opener": "sabendo disso é",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "opener": "os parâmetros das",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "opener": "a interface gráfica",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "opener": "a segunda aba",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "opener": "neste item serão",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "opener": "a partir da",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "opener": "estudos que não",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "opener": "a figura mostra",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "opener": "seguindo para a",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "opener": "por fim tem-se",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "opener": "para que se",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "opener": "a aplicação numérica",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "opener": "compreender o comportamento",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "opener": "ao reparar a",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "opener": "‹autor› deixa claro",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "opener": "a necessidade de",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "opener": "todavia é notada",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "opener": "uma forma mais",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "opener": "compreendendo essa questão",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "opener": "não havendo tendência",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "opener": "‹autor› tratando de",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "opener": "já ‹autor› em",
+        "count": 2,
+        "per_10k": 0.47
+      }
+    ]
+  },
+  "lexicon": {
+    "mattr_100": 0.7128,
+    "mean_word_length": 5.341,
+    "long_word_share": 0.144,
+    "nominalizations_per_100_words": 8.76,
+    "distinct_words": 4795,
+    "top_content_words": [
+      {
+        "word": "dados",
+        "count": 438,
+        "per_10k": 103.9,
+        "docs": 7
+      },
+      {
+        "word": "modelos",
+        "count": 170,
+        "per_10k": 40.33,
+        "docs": 5
+      },
+      {
+        "word": "figura",
+        "count": 164,
+        "per_10k": 38.9,
+        "docs": 7
+      },
+      {
+        "word": "ferramenta",
+        "count": 141,
+        "per_10k": 33.45,
+        "docs": 7
+      },
+      {
+        "word": "possível",
+        "count": 140,
+        "per_10k": 33.21,
+        "docs": 7
+      },
+      {
+        "word": "partir",
+        "count": 136,
+        "per_10k": 32.26,
+        "docs": 7
+      },
+      {
+        "word": "precipitação",
+        "count": 133,
+        "per_10k": 31.55,
+        "docs": 4
+      },
+      {
+        "word": "forma",
+        "count": 131,
+        "per_10k": 31.07,
+        "docs": 6
+      },
+      {
+        "word": "equação",
+        "count": 125,
+        "per_10k": 29.65,
+        "docs": 6
+      },
+      {
+        "word": "modelo",
+        "count": 121,
+        "per_10k": 28.7,
+        "docs": 5
+      },
+      {
+        "word": "através",
+        "count": 113,
+        "per_10k": 26.8,
+        "docs": 6
+      },
+      {
+        "word": "cálculo",
+        "count": 112,
+        "per_10k": 26.57,
+        "docs": 6
+      },
+      {
+        "word": "séries",
+        "count": 109,
+        "per_10k": 25.86,
+        "docs": 4
+      },
+      {
+        "word": "chuvas",
+        "count": 95,
+        "per_10k": 22.53,
+        "docs": 5
+      },
+      {
+        "word": "parâmetros",
+        "count": 92,
+        "per_10k": 21.82,
+        "docs": 4
+      },
+      {
+        "word": "precipitações",
+        "count": 88,
+        "per_10k": 20.87,
+        "docs": 5
+      },
+      {
+        "word": "além",
+        "count": 87,
+        "per_10k": 20.64,
+        "docs": 7
+      },
+      {
+        "word": "estudos",
+        "count": 87,
+        "per_10k": 20.64,
+        "docs": 6
+      },
+      {
+        "word": "base",
+        "count": 82,
+        "per_10k": 19.45,
+        "docs": 6
+      },
+      {
+        "word": "uso",
+        "count": 75,
+        "per_10k": 17.79,
+        "docs": 6
+      },
+      {
+        "word": "desenvolvimento",
+        "count": 72,
+        "per_10k": 17.08,
+        "docs": 7
+      },
+      {
+        "word": "cálculos",
+        "count": 70,
+        "per_10k": 16.6,
+        "docs": 5
+      },
+      {
+        "word": "equações",
+        "count": 67,
+        "per_10k": 15.89,
+        "docs": 5
+      },
+      {
+        "word": "método",
+        "count": 65,
+        "per_10k": 15.42,
+        "docs": 6
+      },
+      {
+        "word": "áreas",
+        "count": 65,
+        "per_10k": 15.42,
+        "docs": 5
+      },
+      {
+        "word": "métodos",
+        "count": 63,
+        "per_10k": 14.94,
+        "docs": 6
+      },
+      {
+        "word": "diferentes",
+        "count": 61,
+        "per_10k": 14.47,
+        "docs": 7
+      },
+      {
+        "word": "climáticos",
+        "count": 60,
+        "per_10k": 14.23,
+        "docs": 3
+      },
+      {
+        "word": "trabalho",
+        "count": 58,
+        "per_10k": 13.76,
+        "docs": 7
+      },
+      {
+        "word": "aplicação",
+        "count": 57,
+        "per_10k": 13.52,
+        "docs": 5
+      },
+      {
+        "word": "temporais",
+        "count": 57,
+        "per_10k": 13.52,
+        "docs": 4
+      },
+      {
+        "word": "análise",
+        "count": 56,
+        "per_10k": 13.28,
+        "docs": 6
+      },
+      {
+        "word": "processo",
+        "count": 56,
+        "per_10k": 13.28,
+        "docs": 5
+      },
+      {
+        "word": "idf",
+        "count": 56,
+        "per_10k": 13.28,
+        "docs": 3
+      },
+      {
+        "word": "pontos",
+        "count": 56,
+        "per_10k": 13.28,
+        "docs": 5
+      },
+      {
+        "word": "protensão",
+        "count": 56,
+        "per_10k": 13.28,
+        "docs": 1
+      },
+      {
+        "word": "presente",
+        "count": 54,
+        "per_10k": 12.81,
+        "docs": 7
+      },
+      {
+        "word": "chuva",
+        "count": 54,
+        "per_10k": 12.81,
+        "docs": 5
+      },
+      {
+        "word": "resultados",
+        "count": 54,
+        "per_10k": 12.81,
+        "docs": 7
+      },
+      {
+        "word": "relação",
+        "count": 53,
+        "per_10k": 12.57,
+        "docs": 7
+      },
+      {
+        "word": "informações",
+        "count": 53,
+        "per_10k": 12.57,
+        "docs": 6
+      },
+      {
+        "word": "maior",
+        "count": 53,
+        "per_10k": 12.57,
+        "docs": 7
+      },
+      {
+        "word": "tabela",
+        "count": 53,
+        "per_10k": 12.57,
+        "docs": 6
+      },
+      {
+        "word": "cmip",
+        "count": 53,
+        "per_10k": 12.57,
+        "docs": 1
+      },
+      {
+        "word": "visto",
+        "count": 52,
+        "per_10k": 12.33,
+        "docs": 7
+      },
+      {
+        "word": "melhor",
+        "count": 50,
+        "per_10k": 11.86,
+        "docs": 5
+      },
+      {
+        "word": "mudanças",
+        "count": 49,
+        "per_10k": 11.62,
+        "docs": 3
+      },
+      {
+        "word": "climáticas",
+        "count": 49,
+        "per_10k": 11.62,
+        "docs": 3
+      },
+      {
+        "word": "cenários",
+        "count": 49,
+        "per_10k": 11.62,
+        "docs": 1
+      },
+      {
+        "word": "computacional",
+        "count": 48,
+        "per_10k": 11.39,
+        "docs": 6
+      },
+      {
+        "word": "anos",
+        "count": 48,
+        "per_10k": 11.39,
+        "docs": 4
+      },
+      {
+        "word": "perdas",
+        "count": 48,
+        "per_10k": 11.39,
+        "docs": 2
+      },
+      {
+        "word": "intensas",
+        "count": 47,
+        "per_10k": 11.15,
+        "docs": 3
+      },
+      {
+        "word": "caso",
+        "count": 46,
+        "per_10k": 10.91,
+        "docs": 7
+      },
+      {
+        "word": "tempo",
+        "count": 45,
+        "per_10k": 10.67,
+        "docs": 5
+      },
+      {
+        "word": "precisão",
+        "count": 44,
+        "per_10k": 10.44,
+        "docs": 6
+      },
+      {
+        "word": "estudo",
+        "count": 44,
+        "per_10k": 10.44,
+        "docs": 5
+      },
+      {
+        "word": "aprendizado",
+        "count": 44,
+        "per_10k": 10.44,
+        "docs": 4
+      },
+      {
+        "word": "interface",
+        "count": 43,
+        "per_10k": 10.2,
+        "docs": 5
+      },
+      {
+        "word": "quantidade",
+        "count": 43,
+        "per_10k": 10.2,
+        "docs": 6
+      },
+      {
+        "word": "paraíba",
+        "count": 43,
+        "per_10k": 10.2,
+        "docs": 5
+      },
+      {
+        "word": "valores",
+        "count": 43,
+        "per_10k": 10.2,
+        "docs": 5
+      },
+      {
+        "word": "variáveis",
+        "count": 42,
+        "per_10k": 9.96,
+        "docs": 6
+      },
+      {
+        "word": "diárias",
+        "count": 41,
+        "per_10k": 9.73,
+        "docs": 4
+      },
+      {
+        "word": "usuário",
+        "count": 41,
+        "per_10k": 9.73,
+        "docs": 5
+      },
+      {
+        "word": "escala",
+        "count": 39,
+        "per_10k": 9.25,
+        "docs": 2
+      },
+      {
+        "word": "frequência",
+        "count": 38,
+        "per_10k": 9.01,
+        "docs": 4
+      },
+      {
+        "word": "trabalhos",
+        "count": 38,
+        "per_10k": 9.01,
+        "docs": 6
+      },
+      {
+        "word": "devido",
+        "count": 37,
+        "per_10k": 8.78,
+        "docs": 7
+      },
+      {
+        "word": "meio",
+        "count": 37,
+        "per_10k": 8.78,
+        "docs": 5
+      },
+      {
+        "word": "anteriormente",
+        "count": 37,
+        "per_10k": 8.78,
+        "docs": 6
+      },
+      {
+        "word": "locais",
+        "count": 37,
+        "per_10k": 8.78,
+        "docs": 5
+      },
+      {
+        "word": "intensidade",
+        "count": 36,
+        "per_10k": 8.54,
+        "docs": 5
+      },
+      {
+        "word": "possuem",
+        "count": 36,
+        "per_10k": 8.54,
+        "docs": 7
+      },
+      {
+        "word": "região",
+        "count": 35,
+        "per_10k": 8.3,
+        "docs": 4
+      },
+      {
+        "word": "funções",
+        "count": 35,
+        "per_10k": 8.3,
+        "docs": 5
+      },
+      {
+        "word": "fim",
+        "count": 35,
+        "per_10k": 8.3,
+        "docs": 7
+      },
+      {
+        "word": "espacialização",
+        "count": 35,
+        "per_10k": 8.3,
+        "docs": 2
+      },
+      {
+        "word": "água",
+        "count": 34,
+        "per_10k": 8.07,
+        "docs": 6
+      },
+      {
+        "word": "média",
+        "count": 34,
+        "per_10k": 8.07,
+        "docs": 4
+      },
+      {
+        "word": "probabilidade",
+        "count": 34,
+        "per_10k": 8.07,
+        "docs": 3
+      },
+      {
+        "word": "usados",
+        "count": 34,
+        "per_10k": 8.07,
+        "docs": 7
+      },
+      {
+        "word": "ajustes",
+        "count": 34,
+        "per_10k": 8.07,
+        "docs": 6
+      },
+      {
+        "word": "importante",
+        "count": 33,
+        "per_10k": 7.83,
+        "docs": 6
+      },
+      {
+        "word": "escolha",
+        "count": 33,
+        "per_10k": 7.83,
+        "docs": 3
+      },
+      {
+        "word": "durações",
+        "count": 33,
+        "per_10k": 7.83,
+        "docs": 3
+      },
+      {
+        "word": "desempenho",
+        "count": 33,
+        "per_10k": 7.83,
+        "docs": 5
+      },
+      {
+        "word": "mapa",
+        "count": 33,
+        "per_10k": 7.83,
+        "docs": 4
+      },
+      {
+        "word": "geral",
+        "count": 33,
+        "per_10k": 7.83,
+        "docs": 5
+      },
+      {
+        "word": "algoritmos",
+        "count": 32,
+        "per_10k": 7.59,
+        "docs": 6
+      },
+      {
+        "word": "diferença",
+        "count": 32,
+        "per_10k": 7.59,
+        "docs": 4
+      },
+      {
+        "word": "imagens",
+        "count": 32,
+        "per_10k": 7.59,
+        "docs": 4
+      },
+      {
+        "word": "segundo",
+        "count": 32,
+        "per_10k": 7.59,
+        "docs": 5
+      },
+      {
+        "word": "perda",
+        "count": 31,
+        "per_10k": 7.35,
+        "docs": 4
+      },
+      {
+        "word": "código",
+        "count": 30,
+        "per_10k": 7.12,
+        "docs": 6
+      },
+      {
+        "word": "valor",
+        "count": 30,
+        "per_10k": 7.12,
+        "docs": 5
+      },
+      {
+        "word": "capacidade",
+        "count": 30,
+        "per_10k": 7.12,
+        "docs": 4
+      },
+      {
+        "word": "teste",
+        "count": 29,
+        "per_10k": 6.88,
+        "docs": 5
+      },
+      {
+        "word": "três",
+        "count": 29,
+        "per_10k": 6.88,
+        "docs": 6
+      },
+      {
+        "word": "concreto",
+        "count": 29,
+        "per_10k": 6.88,
+        "docs": 2
+      },
+      {
+        "word": "treinamento",
+        "count": 29,
+        "per_10k": 6.88,
+        "docs": 2
+      },
+      {
+        "word": "otimização",
+        "count": 28,
+        "per_10k": 6.64,
+        "docs": 5
+      },
+      {
+        "word": "eventos",
+        "count": 28,
+        "per_10k": 6.64,
+        "docs": 4
+      },
+      {
+        "word": "desenvolvidos",
+        "count": 28,
+        "per_10k": 6.64,
+        "docs": 5
+      },
+      {
+        "word": "maneira",
+        "count": 28,
+        "per_10k": 6.64,
+        "docs": 5
+      },
+      {
+        "word": "longo",
+        "count": 28,
+        "per_10k": 6.64,
+        "docs": 5
+      },
+      {
+        "word": "algoritmo",
+        "count": 28,
+        "per_10k": 6.64,
+        "docs": 7
+      },
+      {
+        "word": "características",
+        "count": 28,
+        "per_10k": 6.64,
+        "docs": 5
+      },
+      {
+        "word": "espacial",
+        "count": 28,
+        "per_10k": 6.64,
+        "docs": 4
+      },
+      {
+        "word": "tratamento",
+        "count": 27,
+        "per_10k": 6.4,
+        "docs": 6
+      },
+      {
+        "word": "distribuições",
+        "count": 27,
+        "per_10k": 6.4,
+        "docs": 3
+      },
+      {
+        "word": "utilizados",
+        "count": 27,
+        "per_10k": 6.4,
+        "docs": 5
+      },
+      {
+        "word": "ano",
+        "count": 27,
+        "per_10k": 6.4,
+        "docs": 5
+      },
+      {
+        "word": "retorno",
+        "count": 27,
+        "per_10k": 6.4,
+        "docs": 3
+      },
+      {
+        "word": "dois",
+        "count": 27,
+        "per_10k": 6.4,
+        "docs": 7
+      },
+      {
+        "word": "interpolação",
+        "count": 27,
+        "per_10k": 6.4,
+        "docs": 3
+      },
+      {
+        "word": "gerar",
+        "count": 27,
+        "per_10k": 6.4,
+        "docs": 7
+      },
+      {
+        "word": "dado",
+        "count": 27,
+        "per_10k": 6.4,
+        "docs": 5
+      },
+      {
+        "word": "redução",
+        "count": 27,
+        "per_10k": 6.4,
+        "docs": 2
+      },
+      {
+        "word": "arquitetura",
+        "count": 27,
+        "per_10k": 6.4,
+        "docs": 2
+      },
+      {
+        "word": "predição",
+        "count": 27,
+        "per_10k": 6.4,
+        "docs": 2
+      },
+      {
+        "word": "projetos",
+        "count": 26,
+        "per_10k": 6.17,
+        "docs": 6
+      },
+      {
+        "word": "resultado",
+        "count": 26,
+        "per_10k": 6.17,
+        "docs": 6
+      },
+      {
+        "word": "estatística",
+        "count": 26,
+        "per_10k": 6.17,
+        "docs": 4
+      },
+      {
+        "word": "principais",
+        "count": 26,
+        "per_10k": 6.17,
+        "docs": 5
+      },
+      {
+        "word": "aderência",
+        "count": 25,
+        "per_10k": 5.93,
+        "docs": 4
+      },
+      {
+        "word": "permite",
+        "count": 25,
+        "per_10k": 5.93,
+        "docs": 7
+      },
+      {
+        "word": "vez",
+        "count": 25,
+        "per_10k": 5.93,
+        "docs": 6
+      },
+      {
+        "word": "grande",
+        "count": 25,
+        "per_10k": 5.93,
+        "docs": 6
+      },
+      {
+        "word": "série",
+        "count": 25,
+        "per_10k": 5.93,
+        "docs": 5
+      },
+      {
+        "word": "anuais",
+        "count": 25,
+        "per_10k": 5.93,
+        "docs": 4
+      },
+      {
+        "word": "modelagem",
+        "count": 25,
+        "per_10k": 5.93,
+        "docs": 4
+      },
+      {
+        "word": "exemplo",
+        "count": 25,
+        "per_10k": 5.93,
+        "docs": 6
+      },
+      {
+        "word": "obtenção",
+        "count": 25,
+        "per_10k": 5.93,
+        "docs": 5
+      },
+      {
+        "word": "acurácia",
+        "count": 24,
+        "per_10k": 5.69,
+        "docs": 4
+      },
+      {
+        "word": "gráfica",
+        "count": 24,
+        "per_10k": 5.69,
+        "docs": 5
+      },
+      {
+        "word": "resolução",
+        "count": 24,
+        "per_10k": 5.69,
+        "docs": 3
+      },
+      {
+        "word": "parte",
+        "count": 24,
+        "per_10k": 5.69,
+        "docs": 6
+      },
+      {
+        "word": "citados",
+        "count": 24,
+        "per_10k": 5.69,
+        "docs": 4
+      },
+      {
+        "word": "usadas",
+        "count": 24,
+        "per_10k": 5.69,
+        "docs": 5
+      },
+      {
+        "word": "processos",
+        "count": 24,
+        "per_10k": 5.69,
+        "docs": 5
+      },
+      {
+        "word": "cidades",
+        "count": 24,
+        "per_10k": 5.69,
+        "docs": 5
+      },
+      {
+        "word": "python",
+        "count": 24,
+        "per_10k": 5.69,
+        "docs": 7
+      },
+      {
+        "word": "utilizando",
+        "count": 24,
+        "per_10k": 5.69,
+        "docs": 5
+      },
+      {
+        "word": "aba",
+        "count": 24,
+        "per_10k": 5.69,
+        "docs": 3
+      },
+      {
+        "word": "seguindo",
+        "count": 24,
+        "per_10k": 5.69,
+        "docs": 6
+      },
+      {
+        "word": "validação",
+        "count": 24,
+        "per_10k": 5.69,
+        "docs": 5
+      },
+      {
+        "word": "utilizadas",
+        "count": 24,
+        "per_10k": 5.69,
+        "docs": 5
+      },
+      {
+        "word": "ponto",
+        "count": 24,
+        "per_10k": 5.69,
+        "docs": 5
+      },
+      {
+        "word": "avaliação",
+        "count": 24,
+        "per_10k": 5.69,
+        "docs": 3
+      }
+    ],
+    "top_content_bigrams": [
+      {
+        "ngram": "séries temporais",
+        "count": 50,
+        "per_10k": 11.86,
+        "docs": 4
+      },
+      {
+        "ngram": "chuvas intensas",
+        "count": 45,
+        "per_10k": 10.67,
+        "docs": 3
+      },
+      {
+        "ngram": "equação idf",
+        "count": 41,
+        "per_10k": 9.73,
+        "docs": 3
+      },
+      {
+        "ngram": "ferramenta computacional",
+        "count": 37,
+        "per_10k": 8.78,
+        "docs": 5
+      },
+      {
+        "ngram": "mudanças climáticas",
+        "count": 32,
+        "per_10k": 7.59,
+        "docs": 3
+      },
+      {
+        "ngram": "presente trabalho",
+        "count": 27,
+        "per_10k": 6.4,
+        "docs": 7
+      },
+      {
+        "ngram": "precipitações diárias",
+        "count": 25,
+        "per_10k": 5.93,
+        "docs": 4
+      },
+      {
+        "ngram": "interface gráfica",
+        "count": 23,
+        "per_10k": 5.46,
+        "docs": 5
+      },
+      {
+        "ngram": "cenários climáticos",
+        "count": 23,
+        "per_10k": 5.46,
+        "docs": 1
+      },
+      {
+        "ngram": "séries históricas",
+        "count": 19,
+        "per_10k": 4.51,
+        "docs": 4
+      },
+      {
+        "ngram": "diárias anuais",
+        "count": 19,
+        "per_10k": 4.51,
+        "docs": 3
+      },
+      {
+        "ngram": "áreas verdes",
+        "count": 18,
+        "per_10k": 4.27,
+        "docs": 1
+      },
+      {
+        "ngram": "modelos climáticos",
+        "count": 17,
+        "per_10k": 4.03,
+        "docs": 1
+      },
+      {
+        "ngram": "postos pluviométricos",
+        "count": 16,
+        "per_10k": 3.8,
+        "docs": 4
+      },
+      {
+        "ngram": "código aberto",
+        "count": 13,
+        "per_10k": 3.08,
+        "docs": 4
+      },
+      {
+        "ngram": "dados locais",
+        "count": 13,
+        "per_10k": 3.08,
+        "docs": 1
+      },
+      {
+        "ngram": "máximas diárias",
+        "count": 11,
+        "per_10k": 2.61,
+        "docs": 2
+      },
+      {
+        "ngram": "dados observados",
+        "count": 11,
+        "per_10k": 2.61,
+        "docs": 3
+      },
+      {
+        "ngram": "presente estudo",
+        "count": 11,
+        "per_10k": 2.61,
+        "docs": 3
+      },
+      {
+        "ngram": "redes neurais",
+        "count": 11,
+        "per_10k": 2.61,
+        "docs": 2
+      },
+      {
+        "ngram": "precipitações máximas",
+        "count": 10,
+        "per_10k": 2.37,
+        "docs": 2
+      },
+      {
+        "ngram": "possível observar",
+        "count": 10,
+        "per_10k": 2.37,
+        "docs": 5
+      },
+      {
+        "ngram": "função acumulativa",
+        "count": 10,
+        "per_10k": 2.37,
+        "docs": 1
+      },
+      {
+        "ngram": "eventos extremos",
+        "count": 10,
+        "per_10k": 2.37,
+        "docs": 1
+      },
+      {
+        "ngram": "diferença absoluta",
+        "count": 10,
+        "per_10k": 2.37,
+        "docs": 1
+      },
+      {
+        "ngram": "intensidade duração",
+        "count": 9,
+        "per_10k": 2.13,
+        "docs": 3
+      },
+      {
+        "ngram": "ciclo hidrológico",
+        "count": 9,
+        "per_10k": 2.13,
+        "docs": 4
+      },
+      {
+        "ngram": "série histórica",
+        "count": 9,
+        "per_10k": 2.13,
+        "docs": 4
+      },
+      {
+        "ngram": "possível citar",
+        "count": 9,
+        "per_10k": 2.13,
+        "docs": 4
+      },
+      {
+        "ngram": "fica claro",
+        "count": 9,
+        "per_10k": 2.13,
+        "docs": 4
+      },
+      {
+        "ngram": "código fonte",
+        "count": 9,
+        "per_10k": 2.13,
+        "docs": 4
+      },
+      {
+        "ngram": "possível visualizar",
+        "count": 9,
+        "per_10k": 2.13,
+        "docs": 4
+      },
+      {
+        "ngram": "validação cruzada",
+        "count": 9,
+        "per_10k": 2.13,
+        "docs": 1
+      },
+      {
+        "ngram": "perdas imediatas",
+        "count": 9,
+        "per_10k": 2.13,
+        "docs": 1
+      },
+      {
+        "ngram": "método geral",
+        "count": 9,
+        "per_10k": 2.13,
+        "docs": 1
+      },
+      {
+        "ngram": "diferença relativa",
+        "count": 9,
+        "per_10k": 2.13,
+        "docs": 1
+      },
+      {
+        "ngram": "equações idf",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 3
+      },
+      {
+        "ngram": "modelagem probabilística",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 3
+      },
+      {
+        "ngram": "possível ver",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 5
+      },
+      {
+        "ngram": "mapa interativo",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 3
+      },
+      {
+        "ngram": "planejamento urbano",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 4
+      },
+      {
+        "ngram": "anuais máximas",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 2
+      },
+      {
+        "ngram": "resultados obtidos",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 5
+      },
+      {
+        "ngram": "dados climáticos",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 1
+      },
+      {
+        "ngram": "modelo final",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 1
+      },
+      {
+        "ngram": "melhor desempenho",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 2
+      },
+      {
+        "ngram": "leitura profunda",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 1
+      },
+      {
+        "ngram": "segundo modelo",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 1
+      },
+      {
+        "ngram": "perdas progressivas",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 1
+      },
+      {
+        "ngram": "processo simplificado",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 1
+      },
+      {
+        "ngram": "aplicação numérica",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 1
+      },
+      {
+        "ngram": "programação python",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 5
+      },
+      {
+        "ngram": "explicado anteriormente",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 4
+      },
+      {
+        "ngram": "possível gerar",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 6
+      },
+      {
+        "ngram": "estruturas hidráulicas",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 4
+      },
+      {
+        "ngram": "estações pluviométricas",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 2
+      },
+      {
+        "ngram": "resolução espacial",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 1
+      },
+      {
+        "ngram": "relaxação pura",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 1
+      },
+      {
+        "ngram": "efeito conjunto",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 1
+      },
+      {
+        "ngram": "protensão progressiva",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 1
+      }
+    ],
+    "top_content_trigrams": [
+      {
+        "ngram": "base de dados",
+        "count": 41,
+        "per_10k": 9.73,
+        "docs": 5
+      },
+      {
+        "ngram": "parâmetros da equação",
+        "count": 25,
+        "per_10k": 5.93,
+        "docs": 3
+      },
+      {
+        "ngram": "dados de precipitação",
+        "count": 23,
+        "per_10k": 5.46,
+        "docs": 4
+      },
+      {
+        "ngram": "modelos de am",
+        "count": 23,
+        "per_10k": 5.46,
+        "docs": 1
+      },
+      {
+        "ngram": "banco de dados",
+        "count": 20,
+        "per_10k": 4.74,
+        "docs": 3
+      },
+      {
+        "ngram": "redução de escala",
+        "count": 20,
+        "per_10k": 4.74,
+        "docs": 1
+      },
+      {
+        "ngram": "equações de chuvas",
+        "count": 19,
+        "per_10k": 4.51,
+        "docs": 2
+      },
+      {
+        "ngram": "tratamento de dados",
+        "count": 17,
+        "per_10k": 4.03,
+        "docs": 4
+      },
+      {
+        "ngram": "perdas de protensão",
+        "count": 17,
+        "per_10k": 4.03,
+        "docs": 1
+      },
+      {
+        "ngram": "visto na figura",
+        "count": 16,
+        "per_10k": 3.8,
+        "docs": 5
+      },
+      {
+        "ngram": "perda de protensão",
+        "count": 16,
+        "per_10k": 3.8,
+        "docs": 1
+      },
+      {
+        "ngram": "tempos de retorno",
+        "count": 15,
+        "per_10k": 3.56,
+        "docs": 2
+      },
+      {
+        "ngram": "modelos de aprendizado",
+        "count": 15,
+        "per_10k": 3.56,
+        "docs": 2
+      },
+      {
+        "ngram": "áreas de contribuição",
+        "count": 14,
+        "per_10k": 3.32,
+        "docs": 1
+      },
+      {
+        "ngram": "equação das chuvas",
+        "count": 13,
+        "per_10k": 3.08,
+        "docs": 3
+      },
+      {
+        "ngram": "métodos de otimização",
+        "count": 13,
+        "per_10k": 3.08,
+        "docs": 2
+      },
+      {
+        "ngram": "dados de séries",
+        "count": 12,
+        "per_10k": 2.85,
+        "docs": 3
+      },
+      {
+        "ngram": "temporais de precipitação",
+        "count": 12,
+        "per_10k": 2.85,
+        "docs": 1
+      },
+      {
+        "ngram": "aprendizado de máquinas",
+        "count": 12,
+        "per_10k": 2.85,
+        "docs": 2
+      },
+      {
+        "ngram": "máximas diárias anuais",
+        "count": 11,
+        "per_10k": 2.61,
+        "docs": 2
+      },
+      {
+        "ngram": "distribuições de probabilidade",
+        "count": 11,
+        "per_10k": 2.61,
+        "docs": 3
+      },
+      {
+        "ngram": "bases de dados",
+        "count": 10,
+        "per_10k": 2.37,
+        "docs": 5
+      },
+      {
+        "ngram": "cálculo da equação",
+        "count": 10,
+        "per_10k": 2.37,
+        "docs": 2
+      },
+      {
+        "ngram": "acumulativa de probabilidade",
+        "count": 10,
+        "per_10k": 2.37,
+        "docs": 1
+      },
+      {
+        "ngram": "realização do sd",
+        "count": 10,
+        "per_10k": 2.37,
+        "docs": 1
+      },
+      {
+        "ngram": "partir da figura",
+        "count": 10,
+        "per_10k": 2.37,
+        "docs": 3
+      },
+      {
+        "ngram": "duração e frequência",
+        "count": 9,
+        "per_10k": 2.13,
+        "docs": 3
+      },
+      {
+        "ngram": "precipitações máximas diárias",
+        "count": 9,
+        "per_10k": 2.13,
+        "docs": 2
+      },
+      {
+        "ngram": "vistas na figura",
+        "count": 9,
+        "per_10k": 2.13,
+        "docs": 4
+      },
+      {
+        "ngram": "partir da equação",
+        "count": 9,
+        "per_10k": 2.13,
+        "docs": 5
+      },
+      {
+        "ngram": "aplicação do sd",
+        "count": 9,
+        "per_10k": 2.13,
+        "docs": 1
+      },
+      {
+        "ngram": "vista na figura",
+        "count": 9,
+        "per_10k": 2.13,
+        "docs": 3
+      },
+      {
+        "ngram": "intensidade das chuvas",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 3
+      },
+      {
+        "ngram": "‹autor› e ‹autor›",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 5
+      },
+      {
+        "ngram": "linguagem de programação",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 5
+      },
+      {
+        "ngram": "manual de uso",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 2
+      },
+      {
+        "ngram": "prático da ferramenta",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 2
+      },
+      {
+        "ngram": "gráfico da figura",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 4
+      },
+      {
+        "ngram": "diárias anuais máximas",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 2
+      },
+      {
+        "ngram": "vistos na tabela",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 4
+      },
+      {
+        "ngram": "longo do tempo",
+        "count": 8,
+        "per_10k": 1.9,
+        "docs": 3
+      },
+      {
+        "ngram": "desenvolvimento de projetos",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 5
+      },
+      {
+        "ngram": "descrita por ‹autor›",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 2
+      },
+      {
+        "ngram": "desenvolvimento da ferramenta",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 5
+      },
+      {
+        "ngram": "interpolação de dados",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 3
+      },
+      {
+        "ngram": "séries de precipitação",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 3
+      },
+      {
+        "ngram": "limiar de falhas",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 2
+      },
+      {
+        "ngram": "teste de aderência",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 3
+      },
+      {
+        "ngram": "barra de ferramentas",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 3
+      },
+      {
+        "ngram": "parâmetros das equações",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 1
+      },
+      {
+        "ngram": "quantidade de dados",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 3
+      },
+      {
+        "ngram": "aprendizado de máquina",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 1
+      },
+      {
+        "ngram": "estudo de caso",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 1
+      },
+      {
+        "ngram": "espacialização de dados",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 1
+      },
+      {
+        "ngram": "modelo de am",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 1
+      },
+      {
+        "ngram": "massas de ar",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 2
+      },
+      {
+        "ngram": "imagens de satélite",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 2
+      },
+      {
+        "ngram": "capacidade de generalização",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 1
+      },
+      {
+        "ngram": "predição de dados",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 1
+      },
+      {
+        "ngram": "algoritmo de detecção",
+        "count": 7,
+        "per_10k": 1.66,
+        "docs": 1
+      }
+    ],
+    "formulaic_sequences": [
+      {
+        "ngram": "a partir da",
+        "count": 48,
+        "per_10k": 11.39,
+        "docs": 7
+      },
+      {
+        "ngram": "base de dados",
+        "count": 41,
+        "per_10k": 9.73,
+        "docs": 5
+      },
+      {
+        "ngram": "a partir de",
+        "count": 30,
+        "per_10k": 7.12,
+        "docs": 7
+      },
+      {
+        "ngram": "da equação idf",
+        "count": 28,
+        "per_10k": 6.64,
+        "docs": 3
+      },
+      {
+        "ngram": "de dados de",
+        "count": 26,
+        "per_10k": 6.17,
+        "docs": 5
+      },
+      {
+        "ngram": "parâmetros da equação",
+        "count": 25,
+        "per_10k": 5.93,
+        "docs": 3
+      },
+      {
+        "ngram": "de séries temporais",
+        "count": 24,
+        "per_10k": 5.69,
+        "docs": 3
+      },
+      {
+        "ngram": "dados de precipitação",
+        "count": 23,
+        "per_10k": 5.46,
+        "docs": 4
+      },
+      {
+        "ngram": "de forma a",
+        "count": 23,
+        "per_10k": 5.46,
+        "docs": 5
+      },
+      {
+        "ngram": "de chuvas intensas",
+        "count": 22,
+        "per_10k": 5.22,
+        "docs": 3
+      },
+      {
+        "ngram": "o presente trabalho",
+        "count": 21,
+        "per_10k": 4.98,
+        "docs": 7
+      },
+      {
+        "ngram": "banco de dados",
+        "count": 20,
+        "per_10k": 4.74,
+        "docs": 3
+      },
+      {
+        "ngram": "equações de chuvas",
+        "count": 19,
+        "per_10k": 4.51,
+        "docs": 2
+      },
+      {
+        "ngram": "a base de",
+        "count": 19,
+        "per_10k": 4.51,
+        "docs": 2
+      },
+      {
+        "ngram": "equações de chuvas intensas",
+        "count": 19,
+        "per_10k": 4.51,
+        "docs": 2
+      },
+      {
+        "ngram": "a base de dados",
+        "count": 19,
+        "per_10k": 4.51,
+        "docs": 2
+      },
+      {
+        "ngram": "a quantidade de",
+        "count": 18,
+        "per_10k": 4.27,
+        "docs": 5
+      },
+      {
+        "ngram": "tratamento de dados",
+        "count": 17,
+        "per_10k": 4.03,
+        "docs": 4
+      },
+      {
+        "ngram": "também é possível",
+        "count": 17,
+        "per_10k": 4.03,
+        "docs": 5
+      },
+      {
+        "ngram": "a partir do",
+        "count": 17,
+        "per_10k": 4.03,
+        "docs": 7
+      },
+      {
+        "ngram": "estado da paraíba",
+        "count": 17,
+        "per_10k": 4.03,
+        "docs": 4
+      },
+      {
+        "ngram": "das chuvas intensas",
+        "count": 16,
+        "per_10k": 3.8,
+        "docs": 3
+      },
+      {
+        "ngram": "visto na figura",
+        "count": 16,
+        "per_10k": 3.8,
+        "docs": 5
+      },
+      {
+        "ngram": "de aprendizado de",
+        "count": 16,
+        "per_10k": 3.8,
+        "docs": 2
+      },
+      {
+        "ngram": "tempos de retorno",
+        "count": 15,
+        "per_10k": 3.56,
+        "docs": 2
+      },
+      {
+        "ngram": "modelos de aprendizado",
+        "count": 15,
+        "per_10k": 3.56,
+        "docs": 2
+      },
+      {
+        "ngram": "de precipitações diárias",
+        "count": 14,
+        "per_10k": 3.32,
+        "docs": 3
+      },
+      {
+        "ngram": "dos parâmetros da",
+        "count": 14,
+        "per_10k": 3.32,
+        "docs": 3
+      },
+      {
+        "ngram": "por meio de",
+        "count": 14,
+        "per_10k": 3.32,
+        "docs": 4
+      },
+      {
+        "ngram": "de dados e",
+        "count": 14,
+        "per_10k": 3.32,
+        "docs": 4
+      },
+      {
+        "ngram": "o uso de",
+        "count": 14,
+        "per_10k": 3.32,
+        "docs": 3
+      },
+      {
+        "ngram": "equação das chuvas",
+        "count": 13,
+        "per_10k": 3.08,
+        "docs": 3
+      },
+      {
+        "ngram": "métodos de otimização",
+        "count": 13,
+        "per_10k": 3.08,
+        "docs": 2
+      },
+      {
+        "ngram": "a possibilidade de",
+        "count": 13,
+        "per_10k": 3.08,
+        "docs": 5
+      },
+      {
+        "ngram": "a partir das",
+        "count": 13,
+        "per_10k": 3.08,
+        "docs": 6
+      },
+      {
+        "ngram": "com os dados",
+        "count": 13,
+        "per_10k": 3.08,
+        "docs": 5
+      },
+      {
+        "ngram": "da ferramenta computacional",
+        "count": 13,
+        "per_10k": 3.08,
+        "docs": 3
+      },
+      {
+        "ngram": "para o cálculo",
+        "count": 13,
+        "per_10k": 3.08,
+        "docs": 4
+      },
+      {
+        "ngram": "dados de séries",
+        "count": 12,
+        "per_10k": 2.85,
+        "docs": 3
+      },
+      {
+        "ngram": "uma ferramenta computacional",
+        "count": 12,
+        "per_10k": 2.85,
+        "docs": 4
+      },
+      {
+        "ngram": "ao longo do",
+        "count": 12,
+        "per_10k": 2.85,
+        "docs": 4
+      },
+      {
+        "ngram": "de modelos de",
+        "count": 12,
+        "per_10k": 2.85,
+        "docs": 2
+      },
+      {
+        "ngram": "aprendizado de máquinas",
+        "count": 12,
+        "per_10k": 2.85,
+        "docs": 2
+      },
+      {
+        "ngram": "parâmetros da equação idf",
+        "count": 12,
+        "per_10k": 2.85,
+        "docs": 2
+      },
+      {
+        "ngram": "dos parâmetros da equação",
+        "count": 12,
+        "per_10k": 2.85,
+        "docs": 3
+      },
+      {
+        "ngram": "modelos de aprendizado de",
+        "count": 12,
+        "per_10k": 2.85,
+        "docs": 2
+      },
+      {
+        "ngram": "o processo de",
+        "count": 11,
+        "per_10k": 2.61,
+        "docs": 5
+      },
+      {
+        "ngram": "máximas diárias anuais",
+        "count": 11,
+        "per_10k": 2.61,
+        "docs": 2
+      },
+      {
+        "ngram": "distribuições de probabilidade",
+        "count": 11,
+        "per_10k": 2.61,
+        "docs": 3
+      },
+      {
+        "ngram": "de acordo com",
+        "count": 11,
+        "per_10k": 2.61,
+        "docs": 6
+      },
+      {
+        "ngram": "o cálculo da",
+        "count": 11,
+        "per_10k": 2.61,
+        "docs": 3
+      },
+      {
+        "ngram": "das precipitações diárias",
+        "count": 11,
+        "per_10k": 2.61,
+        "docs": 4
+      },
+      {
+        "ngram": "a partir dos",
+        "count": 11,
+        "per_10k": 2.61,
+        "docs": 6
+      },
+      {
+        "ngram": "as áreas de",
+        "count": 11,
+        "per_10k": 2.61,
+        "docs": 2
+      },
+      {
+        "ngram": "os dados de",
+        "count": 11,
+        "per_10k": 2.61,
+        "docs": 3
+      },
+      {
+        "ngram": "de aprendizado de máquinas",
+        "count": 11,
+        "per_10k": 2.61,
+        "docs": 2
+      },
+      {
+        "ngram": "da equação das",
+        "count": 10,
+        "per_10k": 2.37,
+        "docs": 3
+      },
+      {
+        "ngram": "de código aberto",
+        "count": 10,
+        "per_10k": 2.37,
+        "docs": 4
+      },
+      {
+        "ngram": "bases de dados",
+        "count": 10,
+        "per_10k": 2.37,
+        "docs": 5
+      },
+      {
+        "ngram": "por ‹autor› como",
+        "count": 10,
+        "per_10k": 2.37,
+        "docs": 4
+      }
+    ]
+  },
+  "connectives": {
+    "per_10k_words": 165.57,
+    "sentence_initial_share": 0.17,
+    "by_category": {
+      "adicao": {
+        "count": 155,
+        "per_10k": 36.77
+      },
+      "conclusao": {
+        "count": 154,
+        "per_10k": 36.53
+      },
+      "contraste": {
+        "count": 108,
+        "per_10k": 25.62
+      },
+      "organizacao_topico": {
+        "count": 103,
+        "per_10k": 24.43
+      },
+      "causa": {
+        "count": 72,
+        "per_10k": 17.08
+      },
+      "finalidade": {
+        "count": 57,
+        "per_10k": 13.52
+      },
+      "enfase": {
+        "count": 31,
+        "per_10k": 7.35
+      },
+      "explicacao_exemplo": {
+        "count": 17,
+        "per_10k": 4.03
+      },
+      "comparacao": {
+        "count": 1,
+        "per_10k": 0.24
+      }
+    },
+    "items": [
+      {
+        "phrase": "também",
+        "category": "adicao",
+        "count": 93,
+        "per_10k": 22.06,
+        "sentence_initial": 23,
+        "paragraph_initial": 7,
+        "paragraph_final_sentence_initial": 12,
+        "docs": 7
+      },
+      {
+        "phrase": "assim",
+        "category": "conclusao",
+        "count": 58,
+        "per_10k": 13.76,
+        "sentence_initial": 37,
+        "paragraph_initial": 8,
+        "paragraph_final_sentence_initial": 15,
+        "docs": 7
+      },
+      {
+        "phrase": "para que",
+        "category": "finalidade",
+        "count": 38,
+        "per_10k": 9.01,
+        "sentence_initial": 6,
+        "paragraph_initial": 6,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 7
+      },
+      {
+        "phrase": "porém",
+        "category": "contraste",
+        "count": 30,
+        "per_10k": 7.12,
+        "sentence_initial": 14,
+        "paragraph_initial": 4,
+        "paragraph_final_sentence_initial": 4,
+        "docs": 6
+      },
+      {
+        "phrase": "a partir de",
+        "category": "organizacao_topico",
+        "count": 30,
+        "per_10k": 7.12,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 7
+      },
+      {
+        "phrase": "visto que",
+        "category": "causa",
+        "count": 26,
+        "per_10k": 6.17,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 7
+      },
+      {
+        "phrase": "por fim",
+        "category": "conclusao",
+        "count": 26,
+        "per_10k": 6.17,
+        "sentence_initial": 23,
+        "paragraph_initial": 5,
+        "paragraph_final_sentence_initial": 14,
+        "docs": 7
+      },
+      {
+        "phrase": "além disso",
+        "category": "adicao",
+        "count": 25,
+        "per_10k": 5.93,
+        "sentence_initial": 24,
+        "paragraph_initial": 7,
+        "paragraph_final_sentence_initial": 10,
+        "docs": 4
+      },
+      {
+        "phrase": "além de",
+        "category": "adicao",
+        "count": 25,
+        "per_10k": 5.93,
+        "sentence_initial": 1,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 5
+      },
+      {
+        "phrase": "contudo",
+        "category": "contraste",
+        "count": 22,
+        "per_10k": 5.22,
+        "sentence_initial": 21,
+        "paragraph_initial": 6,
+        "paragraph_final_sentence_initial": 7,
+        "docs": 6
+      },
+      {
+        "phrase": "logo",
+        "category": "conclusao",
+        "count": 14,
+        "per_10k": 3.32,
+        "sentence_initial": 9,
+        "paragraph_initial": 4,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 6
+      },
+      {
+        "phrase": "assim sendo",
+        "category": "conclusao",
+        "count": 14,
+        "per_10k": 3.32,
+        "sentence_initial": 14,
+        "paragraph_initial": 7,
+        "paragraph_final_sentence_initial": 5,
+        "docs": 5
+      },
+      {
+        "phrase": "porque",
+        "category": "causa",
+        "count": 12,
+        "per_10k": 2.85,
+        "sentence_initial": 1,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 1,
+        "docs": 5
+      },
+      {
+        "phrase": "pois",
+        "category": "causa",
+        "count": 12,
+        "per_10k": 2.85,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 6
+      },
+      {
+        "phrase": "no entanto",
+        "category": "contraste",
+        "count": 11,
+        "per_10k": 2.61,
+        "sentence_initial": 11,
+        "paragraph_initial": 1,
+        "paragraph_final_sentence_initial": 3,
+        "docs": 1
+      },
+      {
+        "phrase": "mas",
+        "category": "contraste",
+        "count": 11,
+        "per_10k": 2.61,
+        "sentence_initial": 1,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 1,
+        "docs": 6
+      },
+      {
+        "phrase": "principalmente",
+        "category": "enfase",
+        "count": 11,
+        "per_10k": 2.61,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 6
+      },
+      {
+        "phrase": "especialmente",
+        "category": "enfase",
+        "count": 11,
+        "per_10k": 2.61,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 2
+      },
+      {
+        "phrase": "embora",
+        "category": "contraste",
+        "count": 10,
+        "per_10k": 2.37,
+        "sentence_initial": 6,
+        "paragraph_initial": 3,
+        "paragraph_final_sentence_initial": 1,
+        "docs": 2
+      },
+      {
+        "phrase": "devido a",
+        "category": "causa",
+        "count": 10,
+        "per_10k": 2.37,
+        "sentence_initial": 1,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 4
+      },
+      {
+        "phrase": "em seguida",
+        "category": "organizacao_topico",
+        "count": 10,
+        "per_10k": 2.37,
+        "sentence_initial": 7,
+        "paragraph_initial": 2,
+        "paragraph_final_sentence_initial": 2,
+        "docs": 2
+      },
+      {
+        "phrase": "por sua vez",
+        "category": "organizacao_topico",
+        "count": 10,
+        "per_10k": 2.37,
+        "sentence_initial": 2,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 3
+      },
+      {
+        "phrase": "inicialmente",
+        "category": "organizacao_topico",
+        "count": 9,
+        "per_10k": 2.13,
+        "sentence_initial": 4,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 1,
+        "docs": 3
+      },
+      {
+        "phrase": "entretanto",
+        "category": "contraste",
+        "count": 8,
+        "per_10k": 1.9,
+        "sentence_initial": 8,
+        "paragraph_initial": 1,
+        "paragraph_final_sentence_initial": 3,
+        "docs": 4
+      },
+      {
+        "phrase": "de forma que",
+        "category": "conclusao",
+        "count": 8,
+        "per_10k": 1.9,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 5
+      },
+      {
+        "phrase": "em contrapartida",
+        "category": "contraste",
+        "count": 7,
+        "per_10k": 1.66,
+        "sentence_initial": 5,
+        "paragraph_initial": 1,
+        "paragraph_final_sentence_initial": 1,
+        "docs": 3
+      },
+      {
+        "phrase": "dessa forma",
+        "category": "conclusao",
+        "count": 7,
+        "per_10k": 1.66,
+        "sentence_initial": 5,
+        "paragraph_initial": 2,
+        "paragraph_final_sentence_initial": 1,
+        "docs": 2
+      },
+      {
+        "phrase": "por exemplo",
+        "category": "explicacao_exemplo",
+        "count": 7,
+        "per_10k": 1.66,
+        "sentence_initial": 2,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 3
+      },
+      {
+        "phrase": "ou seja",
+        "category": "explicacao_exemplo",
+        "count": 7,
+        "per_10k": 1.66,
+        "sentence_initial": 2,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 2,
+        "docs": 4
+      },
+      {
+        "phrase": "com o objetivo de",
+        "category": "finalidade",
+        "count": 7,
+        "per_10k": 1.66,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 2
+      },
+      {
+        "phrase": "dado que",
+        "category": "causa",
+        "count": 6,
+        "per_10k": 1.42,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 3
+      },
+      {
+        "phrase": "a seguir",
+        "category": "organizacao_topico",
+        "count": 6,
+        "per_10k": 1.42,
+        "sentence_initial": 2,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 2,
+        "docs": 4
+      },
+      {
+        "phrase": "em especial",
+        "category": "enfase",
+        "count": 6,
+        "per_10k": 1.42,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 3
+      },
+      {
+        "phrase": "com isso",
+        "category": "conclusao",
+        "count": 5,
+        "per_10k": 1.19,
+        "sentence_initial": 4,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 2,
+        "docs": 3
+      },
+      {
+        "phrase": "posteriormente",
+        "category": "organizacao_topico",
+        "count": 5,
+        "per_10k": 1.19,
+        "sentence_initial": 1,
+        "paragraph_initial": 1,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 3
+      },
+      {
+        "phrase": "quanto a",
+        "category": "organizacao_topico",
+        "count": 5,
+        "per_10k": 1.19,
+        "sentence_initial": 3,
+        "paragraph_initial": 2,
+        "paragraph_final_sentence_initial": 1,
+        "docs": 4
+      },
+      {
+        "phrase": "visando",
+        "category": "finalidade",
+        "count": 5,
+        "per_10k": 1.19,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 3
+      },
+      {
+        "phrase": "bem como",
+        "category": "adicao",
+        "count": 4,
+        "per_10k": 0.95,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 2
+      },
+      {
+        "phrase": "finalmente",
+        "category": "conclusao",
+        "count": 4,
+        "per_10k": 0.95,
+        "sentence_initial": 2,
+        "paragraph_initial": 1,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 2
+      },
+      {
+        "phrase": "por isso",
+        "category": "conclusao",
+        "count": 4,
+        "per_10k": 0.95,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 2
+      },
+      {
+        "phrase": "em relação ao",
+        "category": "organizacao_topico",
+        "count": 4,
+        "per_10k": 0.95,
+        "sentence_initial": 3,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 3,
+        "docs": 4
+      },
+      {
+        "phrase": "a partir disso",
+        "category": "organizacao_topico",
+        "count": 4,
+        "per_10k": 0.95,
+        "sentence_initial": 2,
+        "paragraph_initial": 1,
+        "paragraph_final_sentence_initial": 1,
+        "docs": 2
+      },
+      {
+        "phrase": "mas também",
+        "category": "adicao",
+        "count": 3,
+        "per_10k": 0.71,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 1
+      },
+      {
+        "phrase": "inclusive",
+        "category": "adicao",
+        "count": 3,
+        "per_10k": 0.71,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 1
+      },
+      {
+        "phrase": "por outro lado",
+        "category": "contraste",
+        "count": 3,
+        "per_10k": 0.71,
+        "sentence_initial": 2,
+        "paragraph_initial": 2,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 2
+      },
+      {
+        "phrase": "uma vez que",
+        "category": "causa",
+        "count": 3,
+        "per_10k": 0.71,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 1
+      },
+      {
+        "phrase": "isto posto",
+        "category": "conclusao",
+        "count": 3,
+        "per_10k": 0.71,
+        "sentence_initial": 3,
+        "paragraph_initial": 1,
+        "paragraph_final_sentence_initial": 2,
+        "docs": 2
+      },
+      {
+        "phrase": "primeiramente",
+        "category": "organizacao_topico",
+        "count": 3,
+        "per_10k": 0.71,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 3
+      },
+      {
+        "phrase": "nesse sentido",
+        "category": "organizacao_topico",
+        "count": 3,
+        "per_10k": 0.71,
+        "sentence_initial": 3,
+        "paragraph_initial": 2,
+        "paragraph_final_sentence_initial": 1,
+        "docs": 1
+      },
+      {
+        "phrase": "nesse cenário",
+        "category": "organizacao_topico",
+        "count": 3,
+        "per_10k": 0.71,
+        "sentence_initial": 3,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 1,
+        "docs": 2
+      },
+      {
+        "phrase": "quanto ao",
+        "category": "organizacao_topico",
+        "count": 3,
+        "per_10k": 0.71,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 3
+      },
+      {
+        "phrase": "em relação a",
+        "category": "organizacao_topico",
+        "count": 3,
+        "per_10k": 0.71,
+        "sentence_initial": 2,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 2,
+        "docs": 3
+      },
+      {
+        "phrase": "não só",
+        "category": "adicao",
+        "count": 2,
+        "per_10k": 0.47,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 2
+      },
+      {
+        "phrase": "todavia",
+        "category": "contraste",
+        "count": 2,
+        "per_10k": 0.47,
+        "sentence_initial": 2,
+        "paragraph_initial": 2,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 2
+      },
+      {
+        "phrase": "mesmo que",
+        "category": "contraste",
+        "count": 2,
+        "per_10k": 0.47,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 2
+      },
+      {
+        "phrase": "já que",
+        "category": "causa",
+        "count": 2,
+        "per_10k": 0.47,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 1
+      },
+      {
+        "phrase": "portanto",
+        "category": "conclusao",
+        "count": 2,
+        "per_10k": 0.47,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 1
+      },
+      {
+        "phrase": "consequentemente",
+        "category": "conclusao",
+        "count": 2,
+        "per_10k": 0.47,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 1
+      },
+      {
+        "phrase": "conclui-se",
+        "category": "conclusao",
+        "count": 2,
+        "per_10k": 0.47,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 2
+      },
+      {
+        "phrase": "cita-se",
+        "category": "explicacao_exemplo",
+        "count": 2,
+        "per_10k": 0.47,
+        "sentence_initial": 1,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 1,
+        "docs": 2
+      },
+      {
+        "phrase": "neste sentido",
+        "category": "organizacao_topico",
+        "count": 2,
+        "per_10k": 0.47,
+        "sentence_initial": 2,
+        "paragraph_initial": 2,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 2
+      },
+      {
+        "phrase": "nesse contexto",
+        "category": "organizacao_topico",
+        "count": 2,
+        "per_10k": 0.47,
+        "sentence_initial": 1,
+        "paragraph_initial": 1,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 2
+      },
+      {
+        "phrase": "a fim de",
+        "category": "finalidade",
+        "count": 2,
+        "per_10k": 0.47,
+        "sentence_initial": 1,
+        "paragraph_initial": 1,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 2
+      },
+      {
+        "phrase": "com a finalidade de",
+        "category": "finalidade",
+        "count": 2,
+        "per_10k": 0.47,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 2
+      },
+      {
+        "phrase": "de modo a",
+        "category": "finalidade",
+        "count": 2,
+        "per_10k": 0.47,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 1
+      },
+      {
+        "phrase": "de fato",
+        "category": "enfase",
+        "count": 2,
+        "per_10k": 0.47,
+        "sentence_initial": 1,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 2
+      },
+      {
+        "phrase": "ao passo que",
+        "category": "contraste",
+        "count": 1,
+        "per_10k": 0.24,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 1
+      },
+      {
+        "phrase": "em contraste",
+        "category": "contraste",
+        "count": 1,
+        "per_10k": 0.24,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 1
+      },
+      {
+        "phrase": "em função de",
+        "category": "causa",
+        "count": 1,
+        "per_10k": 0.24,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 1
+      },
+      {
+        "phrase": "em suma",
+        "category": "conclusao",
+        "count": 1,
+        "per_10k": 0.24,
+        "sentence_initial": 1,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 1
+      },
+      {
+        "phrase": "em resumo",
+        "category": "conclusao",
+        "count": 1,
+        "per_10k": 0.24,
+        "sentence_initial": 1,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 1,
+        "docs": 1
+      },
+      {
+        "phrase": "diante disso",
+        "category": "conclusao",
+        "count": 1,
+        "per_10k": 0.24,
+        "sentence_initial": 1,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 1
+      },
+      {
+        "phrase": "diante do exposto",
+        "category": "conclusao",
+        "count": 1,
+        "per_10k": 0.24,
+        "sentence_initial": 1,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 1,
+        "docs": 1
+      },
+      {
+        "phrase": "de maneira que",
+        "category": "conclusao",
+        "count": 1,
+        "per_10k": 0.24,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 1
+      },
+      {
+        "phrase": "como exemplo",
+        "category": "explicacao_exemplo",
+        "count": 1,
+        "per_10k": 0.24,
+        "sentence_initial": 1,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 1
+      },
+      {
+        "phrase": "com relação a",
+        "category": "organizacao_topico",
+        "count": 1,
+        "per_10k": 0.24,
+        "sentence_initial": 1,
+        "paragraph_initial": 1,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 1
+      },
+      {
+        "phrase": "assim como",
+        "category": "comparacao",
+        "count": 1,
+        "per_10k": 0.24,
+        "sentence_initial": 1,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 1
+      },
+      {
+        "phrase": "com o intuito de",
+        "category": "finalidade",
+        "count": 1,
+        "per_10k": 0.24,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 1
+      },
+      {
+        "phrase": "particularmente",
+        "category": "enfase",
+        "count": 1,
+        "per_10k": 0.24,
+        "sentence_initial": 0,
+        "paragraph_initial": 0,
+        "paragraph_final_sentence_initial": 0,
+        "docs": 1
+      }
+    ],
+    "never_used": [
+      "a exemplo de",
+      "a saber",
+      "acresce que",
+      "acrescenta-se",
+      "ademais",
+      "ainda que",
+      "analogamente",
+      "ao contrário",
+      "apesar de",
+      "apesar disso",
+      "com efeito",
+      "com relação ao",
+      "da mesma forma",
+      "da mesma maneira",
+      "de modo que",
+      "dessa maneira",
+      "desse modo",
+      "desta forma",
+      "desta maneira",
+      "deste modo",
+      "diferentemente",
+      "do mesmo modo",
+      "efetivamente",
+      "em outras palavras",
+      "em primeiro lugar",
+      "em razão de",
+      "em segundo lugar",
+      "em síntese",
+      "em virtude de",
+      "haja vista",
+      "igualmente",
+      "isto é",
+      "nessa perspectiva",
+      "nesta perspectiva",
+      "neste cenário",
+      "neste contexto",
+      "no que diz respeito a",
+      "no que diz respeito ao",
+      "no que se refere a",
+      "no que se refere ao",
+      "no que tange a",
+      "no que tange ao",
+      "notadamente",
+      "não obstante",
+      "ou melhor",
+      "outrossim",
+      "por conseguinte",
+      "posto que",
+      "semelhantemente",
+      "sendo assim",
+      "similarmente",
+      "sobretudo",
+      "soma-se a isso",
+      "somado a isso",
+      "tal como",
+      "tal qual",
+      "tendo em vista"
+    ]
+  },
+  "modalization": {
+    "hedges_per_10k": 74.96,
+    "boosters_per_10k": 17.32,
+    "hedges": [
+      {
+        "phrase": "é possível",
+        "count": 108,
+        "per_10k": 25.62
+      },
+      {
+        "phrase": "podem",
+        "count": 75,
+        "per_10k": 17.79
+      },
+      {
+        "phrase": "pode",
+        "count": 72,
+        "per_10k": 17.08
+      },
+      {
+        "phrase": "indica",
+        "count": 14,
+        "per_10k": 3.32
+      },
+      {
+        "phrase": "tendem",
+        "count": 13,
+        "per_10k": 3.08
+      },
+      {
+        "phrase": "aproximadamente",
+        "count": 5,
+        "per_10k": 1.19
+      },
+      {
+        "phrase": "tende a",
+        "count": 4,
+        "per_10k": 0.95
+      },
+      {
+        "phrase": "indicando",
+        "count": 4,
+        "per_10k": 0.95
+      },
+      {
+        "phrase": "de maneira geral",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "phrase": "pode-se",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "phrase": "provavelmente",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "phrase": "poderiam",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "phrase": "relativamente",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "phrase": "em geral",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "phrase": "indicam",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "phrase": "infere-se",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "phrase": "sugere",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "phrase": "em certa medida",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "phrase": "talvez",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "phrase": "de modo geral",
+        "count": 1,
+        "per_10k": 0.24
+      }
+    ],
+    "boosters": [
+      {
+        "phrase": "sempre",
+        "count": 15,
+        "per_10k": 3.56
+      },
+      {
+        "phrase": "fundamental",
+        "count": 11,
+        "per_10k": 2.61
+      },
+      {
+        "phrase": "destaca-se",
+        "count": 10,
+        "per_10k": 2.37
+      },
+      {
+        "phrase": "essencial",
+        "count": 7,
+        "per_10k": 1.66
+      },
+      {
+        "phrase": "ressalta-se",
+        "count": 7,
+        "per_10k": 1.66
+      },
+      {
+        "phrase": "crucial",
+        "count": 5,
+        "per_10k": 1.19
+      },
+      {
+        "phrase": "é importante destacar",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "phrase": "significativamente",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "phrase": "de fato",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "phrase": "confirma",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "phrase": "claramente",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "phrase": "evidenciam",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "phrase": "evidencia-se",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "phrase": "demonstra",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "phrase": "demonstram",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "phrase": "imprescindível",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "phrase": "vale ressaltar",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "phrase": "evidencia",
+        "count": 1,
+        "per_10k": 0.24
+      }
+    ],
+    "impersonal": [
+      {
+        "phrase": "é possível",
+        "count": 108,
+        "per_10k": 25.62
+      },
+      {
+        "phrase": "é importante",
+        "count": 21,
+        "per_10k": 4.98
+      },
+      {
+        "phrase": "há",
+        "count": 20,
+        "per_10k": 4.74
+      },
+      {
+        "phrase": "observa-se",
+        "count": 17,
+        "per_10k": 4.03
+      },
+      {
+        "phrase": "tem-se",
+        "count": 17,
+        "per_10k": 4.03
+      },
+      {
+        "phrase": "nota-se",
+        "count": 17,
+        "per_10k": 4.03
+      },
+      {
+        "phrase": "existem",
+        "count": 15,
+        "per_10k": 3.56
+      },
+      {
+        "phrase": "é necessário",
+        "count": 13,
+        "per_10k": 3.08
+      },
+      {
+        "phrase": "entende-se",
+        "count": 11,
+        "per_10k": 2.61
+      },
+      {
+        "phrase": "trata-se",
+        "count": 8,
+        "per_10k": 1.9
+      },
+      {
+        "phrase": "existe",
+        "count": 7,
+        "per_10k": 1.66
+      },
+      {
+        "phrase": "é fundamental",
+        "count": 6,
+        "per_10k": 1.42
+      },
+      {
+        "phrase": "é preciso",
+        "count": 5,
+        "per_10k": 1.19
+      },
+      {
+        "phrase": "constata-se",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "phrase": "considera-se",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "phrase": "percebe-se",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "phrase": "é notório",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "phrase": "compreende-se",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "phrase": "faz-se necessário",
+        "count": 1,
+        "per_10k": 0.24
+      }
+    ]
+  },
+  "voice": {
+    "passive_per_100_sentences": 35.34,
+    "passive_top_forms": [
+      {
+        "form": "foram desenvolvidos",
+        "count": 12,
+        "per_10k": 2.85
+      },
+      {
+        "form": "ser visto",
+        "count": 10,
+        "per_10k": 2.37
+      },
+      {
+        "form": "ser vistas",
+        "count": 10,
+        "per_10k": 2.37
+      },
+      {
+        "form": "são usados",
+        "count": 8,
+        "per_10k": 1.9
+      },
+      {
+        "form": "ser vista",
+        "count": 8,
+        "per_10k": 1.9
+      },
+      {
+        "form": "ser vistos",
+        "count": 8,
+        "per_10k": 1.9
+      },
+      {
+        "form": "foi desenvolvida",
+        "count": 8,
+        "per_10k": 1.9
+      },
+      {
+        "form": "foi desenvolvido",
+        "count": 7,
+        "per_10k": 1.66
+      },
+      {
+        "form": "foi programado",
+        "count": 7,
+        "per_10k": 1.66
+      },
+      {
+        "form": "serão apresentados",
+        "count": 7,
+        "per_10k": 1.66
+      },
+      {
+        "form": "são usadas",
+        "count": 6,
+        "per_10k": 1.42
+      },
+      {
+        "form": "foi disponibilizado",
+        "count": 6,
+        "per_10k": 1.42
+      },
+      {
+        "form": "é chamada",
+        "count": 6,
+        "per_10k": 1.42
+      },
+      {
+        "form": "foi elaborado",
+        "count": 5,
+        "per_10k": 1.19
+      },
+      {
+        "form": "foi criado",
+        "count": 5,
+        "per_10k": 1.19
+      },
+      {
+        "form": "é chamado",
+        "count": 5,
+        "per_10k": 1.19
+      },
+      {
+        "form": "ser usada",
+        "count": 4,
+        "per_10k": 0.95
+      },
+      {
+        "form": "serão usados",
+        "count": 4,
+        "per_10k": 0.95
+      },
+      {
+        "form": "foi criada",
+        "count": 4,
+        "per_10k": 0.95
+      },
+      {
+        "form": "foram geradas",
+        "count": 4,
+        "per_10k": 0.95
+      },
+      {
+        "form": "são utilizados",
+        "count": 4,
+        "per_10k": 0.95
+      },
+      {
+        "form": "foi utilizada",
+        "count": 4,
+        "per_10k": 0.95
+      },
+      {
+        "form": "foram analisados",
+        "count": 4,
+        "per_10k": 0.95
+      },
+      {
+        "form": "ser observada",
+        "count": 4,
+        "per_10k": 0.95
+      },
+      {
+        "form": "foram desenvolvidas",
+        "count": 4,
+        "per_10k": 0.95
+      }
+    ],
+    "se_enclitic_per_10k": 64.05,
+    "se_enclitic_top_forms": [
+      {
+        "form": "têm-se",
+        "count": 22,
+        "per_10k": 5.22
+      },
+      {
+        "form": "observa-se",
+        "count": 17,
+        "per_10k": 4.03
+      },
+      {
+        "form": "tem-se",
+        "count": 17,
+        "per_10k": 4.03
+      },
+      {
+        "form": "nota-se",
+        "count": 17,
+        "per_10k": 4.03
+      },
+      {
+        "form": "entende-se",
+        "count": 11,
+        "per_10k": 2.61
+      },
+      {
+        "form": "destaca-se",
+        "count": 10,
+        "per_10k": 2.37
+      },
+      {
+        "form": "segue-se",
+        "count": 8,
+        "per_10k": 1.9
+      },
+      {
+        "form": "trata-se",
+        "count": 8,
+        "per_10k": 1.9
+      },
+      {
+        "form": "ressalta-se",
+        "count": 7,
+        "per_10k": 1.66
+      },
+      {
+        "form": "espera-se",
+        "count": 5,
+        "per_10k": 1.19
+      },
+      {
+        "form": "deu-se",
+        "count": 4,
+        "per_10k": 0.95
+      },
+      {
+        "form": "inicia-se",
+        "count": 4,
+        "per_10k": 0.95
+      },
+      {
+        "form": "torna-se",
+        "count": 4,
+        "per_10k": 0.95
+      },
+      {
+        "form": "aplica-se",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "form": "consegue-se",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "form": "constata-se",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "form": "necessita-se",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "form": "mostra-se",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "form": "faz-se",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "form": "encontra-se",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "form": "pode-se",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "form": "visualiza-se",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "form": "desconsidera-se",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "form": "possua-se",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "form": "organiza-se",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "form": "menciona-se",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "form": "precisa-se",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "form": "conclui-se",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "form": "traça-se",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "form": "priorizou-se",
+        "count": 2,
+        "per_10k": 0.47
+      }
+    ],
+    "se_free_per_10k": 68.79,
+    "first_person_per_10k": 0.24,
+    "first_person_singular": [],
+    "first_person_plural_pronouns": [
+      {
+        "form": "nós",
+        "count": 1,
+        "per_10k": 0.24
+      }
+    ],
+    "first_person_plural_verbs": []
+  },
+  "punctuation": {
+    "commas_per_sentence": 1.945,
+    "per_1k_words": {
+      ",": 73.63,
+      ";": 1.21,
+      ":": 1.352,
+      "(": 5.195,
+      "—": 0.119,
+      "?": 0.19,
+      "!": 0.0
+    }
+  },
+  "citations": {
+    "counts": {
+      "apud": 0,
+      "narrative": 153,
+      "parenthetical": 105,
+      "parenthetical_multiple": 15
+    },
+    "per_10k_words": 61.2,
+    "narrative_share": 0.593,
+    "narrative_frames": [
+      {
+        "frame": "(no meio da frase)",
+        "count": 78,
+        "per_10k": 18.5
+      },
+      {
+        "frame": "(autor como sujeito no início da frase)",
+        "count": 36,
+        "per_10k": 8.54
+      },
+      {
+        "frame": "ela é descrita por",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "frame": "sobre isto",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "frame": "já",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "frame": "explicada por",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "frame": "no trabalho da daee",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "frame": "com base na tabela",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "frame": "obtidas às intensidades",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "frame": "ele é descrito por",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "frame": "segundo",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "frame": "de chamada por",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "frame": "quanto a isso",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "frame": "e aplicado por",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "frame": "e",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "frame": "elaboração dos",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "frame": "na",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "frame": "também é possível citar",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "frame": "por exemplo",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "frame": "através do trabalho de",
+        "count": 1,
+        "per_10k": 0.24
+      }
+    ],
+    "reporting_verbs": [
+      {
+        "verb": "descrevem",
+        "count": 5,
+        "per_10k": 1.19
+      },
+      {
+        "verb": "descreve",
+        "count": 4,
+        "per_10k": 0.95
+      },
+      {
+        "verb": "declaram",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "verb": "é",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "verb": "entendem",
+        "count": 3,
+        "per_10k": 0.71
+      },
+      {
+        "verb": "deixa",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "verb": "tratando",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "verb": "empregados",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "verb": "desenvolveu",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "verb": "explicam",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "verb": "ainda",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "verb": "expõem",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "verb": "também",
+        "count": 2,
+        "per_10k": 0.47
+      },
+      {
+        "verb": "destaca",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "verb": "analisam",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "verb": "indica",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "verb": "realizou",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "verb": "desenvolveram",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "verb": "nas",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "verb": "observaram",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "verb": "entende",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "verb": "compararam",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "verb": "classificaram",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "verb": "afirma",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "verb": "avaliam",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "verb": "define",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "verb": "deixam",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "verb": "foi",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "verb": "analisa",
+        "count": 1,
+        "per_10k": 0.24
+      },
+      {
+        "verb": "julgam",
+        "count": 1,
+        "per_10k": 0.24
+      }
+    ]
+  },
+  "ai_markers_in_your_corpus": [
+    {
+      "phrase": "além disso",
+      "count": 25,
+      "per_10k": 5.93
+    },
+    {
+      "phrase": "dessa forma",
+      "count": 7,
+      "per_10k": 1.66
+    },
+    {
+      "phrase": "robusta",
+      "count": 7,
+      "per_10k": 1.66
+    },
+    {
+      "phrase": "explorar",
+      "count": 6,
+      "per_10k": 1.42
+    },
+    {
+      "phrase": "crucial",
+      "count": 5,
+      "per_10k": 1.19
+    },
+    {
+      "phrase": "nesse cenário",
+      "count": 3,
+      "per_10k": 0.71
+    },
+    {
+      "phrase": "é importante destacar",
+      "count": 3,
+      "per_10k": 0.71
+    },
+    {
+      "phrase": "fomentar",
+      "count": 2,
+      "per_10k": 0.47
+    },
+    {
+      "phrase": "é importante notar",
+      "count": 2,
+      "per_10k": 0.47
+    },
+    {
+      "phrase": "nesse contexto",
+      "count": 2,
+      "per_10k": 0.47
+    },
+    {
+      "phrase": "complexidades",
+      "count": 2,
+      "per_10k": 0.47
+    },
+    {
+      "phrase": "robusto",
+      "count": 2,
+      "per_10k": 0.47
+    },
+    {
+      "phrase": "multifacetada",
+      "count": 1,
+      "per_10k": 0.24
+    },
+    {
+      "phrase": "nuances",
+      "count": 1,
+      "per_10k": 0.24
+    },
+    {
+      "phrase": "abrangente",
+      "count": 1,
+      "per_10k": 0.24
+    },
+    {
+      "phrase": "otimizar",
+      "count": 1,
+      "per_10k": 0.24
+    },
+    {
+      "phrase": "em suma",
+      "count": 1,
+      "per_10k": 0.24
+    },
+    {
+      "phrase": "vale ressaltar",
+      "count": 1,
+      "per_10k": 0.24
+    }
+  ],
+  "sections": {
+    "abstract": {
+      "paragraphs": 7,
+      "words": 1106,
+      "mean_sentence_length": 29.105,
+      "mean_paragraph_words": 158.0,
+      "sentence_initial_connective_share": 0.211,
+      "hedges_per_1k_words": 0.904,
+      "boosters_per_1k_words": 2.712,
+      "passive_per_100_sentences": 23.684,
+      "first_person_per_1k_words": 0.0,
+      "citations_per_1k_words": 0.0,
+      "top_sentence_initial_connectives": [
+        {
+          "phrase": "nesse cenário",
+          "count": 1,
+          "per_10k": 9.04
+        },
+        {
+          "phrase": "no entanto",
+          "count": 1,
+          "per_10k": 9.04
+        },
+        {
+          "phrase": "contudo",
+          "count": 1,
+          "per_10k": 9.04
+        },
+        {
+          "phrase": "além disso",
+          "count": 1,
+          "per_10k": 9.04
+        },
+        {
+          "phrase": "diante disso",
+          "count": 1,
+          "per_10k": 9.04
+        },
+        {
+          "phrase": "a partir disso",
+          "count": 1,
+          "per_10k": 9.04
+        },
+        {
+          "phrase": "devido a",
+          "count": 1,
+          "per_10k": 9.04
+        },
+        {
+          "phrase": "embora",
+          "count": 1,
+          "per_10k": 9.04
+        }
+      ],
+      "top_paragraph_openers": [
+        {
+          "opener": "compreender o comportamento",
+          "count": 2,
+          "per_10k": 18.08
+        },
+        {
+          "opener": "o crescimento das",
+          "count": 1,
+          "per_10k": 9.04
+        },
+        {
+          "opener": "chuvas intensas são",
+          "count": 1,
+          "per_10k": 9.04
+        },
+        {
+          "opener": "as mudanças climáticas",
+          "count": 1,
+          "per_10k": 9.04
+        },
+        {
+          "opener": "a detecção e",
+          "count": 1,
+          "per_10k": 9.04
+        },
+        {
+          "opener": "o uso de",
+          "count": 1,
+          "per_10k": 9.04
+        }
+      ]
+    },
+    "conclusion": {
+      "paragraphs": 38,
+      "words": 3247,
+      "mean_sentence_length": 31.598,
+      "mean_paragraph_words": 72.342,
+      "sentence_initial_connective_share": 0.327,
+      "hedges_per_1k_words": 4.928,
+      "boosters_per_1k_words": 2.772,
+      "passive_per_100_sentences": 24.038,
+      "first_person_per_1k_words": 0.0,
+      "citations_per_1k_words": 0.0,
+      "top_sentence_initial_connectives": [
+        {
+          "phrase": "além disso",
+          "count": 7,
+          "per_10k": 21.56
+        },
+        {
+          "phrase": "assim",
+          "count": 5,
+          "per_10k": 15.4
+        },
+        {
+          "phrase": "por fim",
+          "count": 3,
+          "per_10k": 9.24
+        },
+        {
+          "phrase": "contudo",
+          "count": 2,
+          "per_10k": 6.16
+        },
+        {
+          "phrase": "assim sendo",
+          "count": 2,
+          "per_10k": 6.16
+        },
+        {
+          "phrase": "também",
+          "count": 2,
+          "per_10k": 6.16
+        },
+        {
+          "phrase": "mas",
+          "count": 1,
+          "per_10k": 3.08
+        },
+        {
+          "phrase": "porque",
+          "count": 1,
+          "per_10k": 3.08
+        }
+      ],
+      "top_paragraph_openers": [
+        {
+          "opener": "entendendo tudo que",
+          "count": 2,
+          "per_10k": 6.16
+        },
+        {
+          "opener": "destaca-se que o",
+          "count": 2,
+          "per_10k": 6.16
+        },
+        {
+          "opener": "indo além do",
+          "count": 2,
+          "per_10k": 6.16
+        },
+        {
+          "opener": "assim sendo foi",
+          "count": 2,
+          "per_10k": 6.16
+        },
+        {
+          "opener": "o presente estudo",
+          "count": 2,
+          "per_10k": 6.16
+        },
+        {
+          "opener": "os resultados indicaram",
+          "count": 2,
+          "per_10k": 6.16
+        },
+        {
+          "opener": "espera-se com o",
+          "count": 1,
+          "per_10k": 3.08
+        },
+        {
+          "opener": "também se faz",
+          "count": 1,
+          "per_10k": 3.08
+        }
+      ]
+    },
+    "discussion": {
+      "paragraphs": 11,
+      "words": 1081,
+      "mean_sentence_length": 25.14,
+      "mean_paragraph_words": 98.273,
+      "sentence_initial_connective_share": 0.256,
+      "hedges_per_1k_words": 10.176,
+      "boosters_per_1k_words": 1.85,
+      "passive_per_100_sentences": 20.93,
+      "first_person_per_1k_words": 0.0,
+      "citations_per_1k_words": 10.176,
+      "top_sentence_initial_connectives": [
+        {
+          "phrase": "no entanto",
+          "count": 3,
+          "per_10k": 27.75
+        },
+        {
+          "phrase": "assim",
+          "count": 2,
+          "per_10k": 18.5
+        },
+        {
+          "phrase": "porém",
+          "count": 1,
+          "per_10k": 9.25
+        },
+        {
+          "phrase": "em relação ao",
+          "count": 1,
+          "per_10k": 9.25
+        },
+        {
+          "phrase": "em contrapartida",
+          "count": 1,
+          "per_10k": 9.25
+        },
+        {
+          "phrase": "além disso",
+          "count": 1,
+          "per_10k": 9.25
+        },
+        {
+          "phrase": "por fim",
+          "count": 1,
+          "per_10k": 9.25
+        },
+        {
+          "phrase": "dessa forma",
+          "count": 1,
+          "per_10k": 9.25
+        }
+      ],
+      "top_paragraph_openers": [
+        {
+          "opener": "a análise dos",
+          "count": 1,
+          "per_10k": 9.25
+        },
+        {
+          "opener": "porém analisando os",
+          "count": 1,
+          "per_10k": 9.25
+        },
+        {
+          "opener": "seguindo para os",
+          "count": 1,
+          "per_10k": 9.25
+        },
+        {
+          "opener": "quanto aos modelos",
+          "count": 1,
+          "per_10k": 9.25
+        },
+        {
+          "opener": "tratando do restante",
+          "count": 1,
+          "per_10k": 9.25
+        },
+        {
+          "opener": "os dados de",
+          "count": 1,
+          "per_10k": 9.25
+        },
+        {
+          "opener": "continuando para a",
+          "count": 1,
+          "per_10k": 9.25
+        },
+        {
+          "opener": "esses fatores levam",
+          "count": 1,
+          "per_10k": 9.25
+        }
+      ]
+    },
+    "introduction": {
+      "paragraphs": 49,
+      "words": 4504,
+      "mean_sentence_length": 29.948,
+      "mean_paragraph_words": 81.898,
+      "sentence_initial_connective_share": 0.209,
+      "hedges_per_1k_words": 3.108,
+      "boosters_per_1k_words": 2.442,
+      "passive_per_100_sentences": 22.876,
+      "first_person_per_1k_words": 0.0,
+      "citations_per_1k_words": 6.883,
+      "top_sentence_initial_connectives": [
+        {
+          "phrase": "porém",
+          "count": 4,
+          "per_10k": 8.88
+        },
+        {
+          "phrase": "contudo",
+          "count": 3,
+          "per_10k": 6.66
+        },
+        {
+          "phrase": "isto posto",
+          "count": 2,
+          "per_10k": 4.44
+        },
+        {
+          "phrase": "todavia",
+          "count": 2,
+          "per_10k": 4.44
+        },
+        {
+          "phrase": "também",
+          "count": 2,
+          "per_10k": 4.44
+        },
+        {
+          "phrase": "nesse cenário",
+          "count": 2,
+          "per_10k": 4.44
+        },
+        {
+          "phrase": "no entanto",
+          "count": 2,
+          "per_10k": 4.44
+        },
+        {
+          "phrase": "assim",
+          "count": 2,
+          "per_10k": 4.44
+        }
+      ],
+      "top_paragraph_openers": [
+        {
+          "opener": "ao reparar a",
+          "count": 2,
+          "per_10k": 4.44
+        },
+        {
+          "opener": "‹autor› deixa claro",
+          "count": 2,
+          "per_10k": 4.44
+        },
+        {
+          "opener": "a necessidade de",
+          "count": 2,
+          "per_10k": 4.44
+        },
+        {
+          "opener": "todavia é notada",
+          "count": 2,
+          "per_10k": 4.44
+        },
+        {
+          "opener": "nesse sentido o",
+          "count": 2,
+          "per_10k": 4.44
+        },
+        {
+          "opener": "neste item serão",
+          "count": 2,
+          "per_10k": 4.44
+        },
+        {
+          "opener": "com o crescimento",
+          "count": 1,
+          "per_10k": 2.22
+        },
+        {
+          "opener": "dado essas crescentes",
+          "count": 1,
+          "per_10k": 2.22
+        }
+      ]
+    },
+    "literature_review": {
+      "paragraphs": 204,
+      "words": 13759,
+      "mean_sentence_length": 26.511,
+      "mean_paragraph_words": 67.446,
+      "sentence_initial_connective_share": 0.145,
+      "hedges_per_1k_words": 8.867,
+      "boosters_per_1k_words": 1.454,
+      "passive_per_100_sentences": 35.453,
+      "first_person_per_1k_words": 0.073,
+      "citations_per_1k_words": 11.847,
+      "top_sentence_initial_connectives": [
+        {
+          "phrase": "assim",
+          "count": 9,
+          "per_10k": 6.54
+        },
+        {
+          "phrase": "porém",
+          "count": 8,
+          "per_10k": 5.81
+        },
+        {
+          "phrase": "por fim",
+          "count": 7,
+          "per_10k": 5.09
+        },
+        {
+          "phrase": "assim sendo",
+          "count": 5,
+          "per_10k": 3.63
+        },
+        {
+          "phrase": "além disso",
+          "count": 5,
+          "per_10k": 3.63
+        },
+        {
+          "phrase": "embora",
+          "count": 4,
+          "per_10k": 2.91
+        },
+        {
+          "phrase": "logo",
+          "count": 3,
+          "per_10k": 2.18
+        },
+        {
+          "phrase": "entretanto",
+          "count": 3,
+          "per_10k": 2.18
+        }
+      ],
+      "top_paragraph_openers": [
+        {
+          "opener": "a escolha de",
+          "count": 4,
+          "per_10k": 2.91
+        },
+        {
+          "opener": "sabendo disso é",
+          "count": 3,
+          "per_10k": 2.18
+        },
+        {
+          "opener": "uma forma mais",
+          "count": 2,
+          "per_10k": 1.45
+        },
+        {
+          "opener": "compreendendo essa questão",
+          "count": 2,
+          "per_10k": 1.45
+        },
+        {
+          "opener": "não havendo tendência",
+          "count": 2,
+          "per_10k": 1.45
+        },
+        {
+          "opener": "‹autor› tratando de",
+          "count": 2,
+          "per_10k": 1.45
+        },
+        {
+          "opener": "já ‹autor› em",
+          "count": 2,
+          "per_10k": 1.45
+        },
+        {
+          "opener": "os parâmetros das",
+          "count": 2,
+          "per_10k": 1.45
+        }
+      ]
+    },
+    "methodology": {
+      "paragraphs": 136,
+      "words": 9588,
+      "mean_sentence_length": 25.519,
+      "mean_paragraph_words": 68.301,
+      "sentence_initial_connective_share": 0.15,
+      "hedges_per_1k_words": 6.154,
+      "boosters_per_1k_words": 1.147,
+      "passive_per_100_sentences": 46.373,
+      "first_person_per_1k_words": 0.0,
+      "citations_per_1k_words": 3.65,
+      "top_sentence_initial_connectives": [
+        {
+          "phrase": "assim",
+          "count": 16,
+          "per_10k": 16.69
+        },
+        {
+          "phrase": "também",
+          "count": 7,
+          "per_10k": 7.3
+        },
+        {
+          "phrase": "contudo",
+          "count": 5,
+          "per_10k": 5.21
+        },
+        {
+          "phrase": "para que",
+          "count": 4,
+          "per_10k": 4.17
+        },
+        {
+          "phrase": "além disso",
+          "count": 4,
+          "per_10k": 4.17
+        },
+        {
+          "phrase": "em seguida",
+          "count": 4,
+          "per_10k": 4.17
+        },
+        {
+          "phrase": "logo",
+          "count": 3,
+          "per_10k": 3.13
+        },
+        {
+          "phrase": "por fim",
+          "count": 2,
+          "per_10k": 2.09
+        }
+      ],
+      "top_paragraph_openers": [
+        {
+          "opener": "estudos que não",
+          "count": 3,
+          "per_10k": 3.13
+        },
+        {
+          "opener": "o desenvolvimento da",
+          "count": 2,
+          "per_10k": 2.09
+        },
+        {
+          "opener": "a interface gráfica",
+          "count": 2,
+          "per_10k": 2.09
+        },
+        {
+          "opener": "o cálculo da",
+          "count": 2,
+          "per_10k": 2.09
+        },
+        {
+          "opener": "sabendo disso de",
+          "count": 2,
+          "per_10k": 2.09
+        },
+        {
+          "opener": "para esses dados",
+          "count": 2,
+          "per_10k": 2.09
+        },
+        {
+          "opener": "outra parte importante",
+          "count": 2,
+          "per_10k": 2.09
+        },
+        {
+          "opener": "tratando dos cálculos",
+          "count": 2,
+          "per_10k": 2.09
+        }
+      ]
+    },
+    "other": {
+      "paragraphs": 27,
+      "words": 2013,
+      "mean_sentence_length": 26.586,
+      "mean_paragraph_words": 57.111,
+      "sentence_initial_connective_share": 0.125,
+      "hedges_per_1k_words": 4.968,
+      "boosters_per_1k_words": 0.994,
+      "passive_per_100_sentences": 37.5,
+      "first_person_per_1k_words": 0.0,
+      "citations_per_1k_words": 0.497,
+      "top_sentence_initial_connectives": [
+        {
+          "phrase": "contudo",
+          "count": 2,
+          "per_10k": 9.94
+        },
+        {
+          "phrase": "além disso",
+          "count": 2,
+          "per_10k": 9.94
+        },
+        {
+          "phrase": "por fim",
+          "count": 2,
+          "per_10k": 9.94
+        },
+        {
+          "phrase": "como exemplo",
+          "count": 1,
+          "per_10k": 4.97
+        },
+        {
+          "phrase": "inicialmente",
+          "count": 1,
+          "per_10k": 4.97
+        },
+        {
+          "phrase": "assim",
+          "count": 1,
+          "per_10k": 4.97
+        },
+        {
+          "phrase": "dessa forma",
+          "count": 1,
+          "per_10k": 4.97
+        }
+      ],
+      "top_paragraph_openers": [
+        {
+          "opener": "rf informações de",
+          "count": 2,
+          "per_10k": 9.94
+        },
+        {
+          "opener": "a ferramenta computacional",
+          "count": 1,
+          "per_10k": 4.97
+        },
+        {
+          "opener": "para expandir as",
+          "count": 1,
+          "per_10k": 4.97
+        },
+        {
+          "opener": "o processo para",
+          "count": 1,
+          "per_10k": 4.97
+        },
+        {
+          "opener": "a partir do",
+          "count": 1,
+          "per_10k": 4.97
+        },
+        {
+          "opener": "ao submeter a",
+          "count": 1,
+          "per_10k": 4.97
+        },
+        {
+          "opener": "e para estender",
+          "count": 1,
+          "per_10k": 4.97
+        },
+        {
+          "opener": "com a primeira",
+          "count": 1,
+          "per_10k": 4.97
+        }
+      ]
+    },
+    "results": {
+      "paragraphs": 66,
+      "words": 4048,
+      "mean_sentence_length": 25.459,
+      "mean_paragraph_words": 61.333,
+      "sentence_initial_connective_share": 0.157,
+      "hedges_per_1k_words": 9.387,
+      "boosters_per_1k_words": 2.47,
+      "passive_per_100_sentences": 29.56,
+      "first_person_per_1k_words": 0.0,
+      "citations_per_1k_words": 2.47,
+      "top_sentence_initial_connectives": [
+        {
+          "phrase": "contudo",
+          "count": 7,
+          "per_10k": 17.29
+        },
+        {
+          "phrase": "por fim",
+          "count": 4,
+          "per_10k": 9.88
+        },
+        {
+          "phrase": "assim",
+          "count": 2,
+          "per_10k": 4.94
+        },
+        {
+          "phrase": "além disso",
+          "count": 2,
+          "per_10k": 4.94
+        },
+        {
+          "phrase": "dessa forma",
+          "count": 1,
+          "per_10k": 2.47
+        },
+        {
+          "phrase": "em relação a",
+          "count": 1,
+          "per_10k": 2.47
+        },
+        {
+          "phrase": "em contrapartida",
+          "count": 1,
+          "per_10k": 2.47
+        },
+        {
+          "phrase": "de fato",
+          "count": 1,
+          "per_10k": 2.47
+        }
+      ],
+      "top_paragraph_openers": [
+        {
+          "opener": "a aplicação numérica",
+          "count": 3,
+          "per_10k": 7.41
+        },
+        {
+          "opener": "a figura mostra",
+          "count": 2,
+          "per_10k": 4.94
+        },
+        {
+          "opener": "seguindo para a",
+          "count": 2,
+          "per_10k": 4.94
+        },
+        {
+          "opener": "nesta seção serão",
+          "count": 2,
+          "per_10k": 4.94
+        },
+        {
+          "opener": "a tabela mostra",
+          "count": 2,
+          "per_10k": 4.94
+        },
+        {
+          "opener": "assim após a",
+          "count": 1,
+          "per_10k": 2.47
+        },
+        {
+          "opener": "as três planilhas",
+          "count": 1,
+          "per_10k": 2.47
+        },
+        {
+          "opener": "a segunda guia",
+          "count": 1,
+          "per_10k": 2.47
+        }
+      ]
+    },
+    "results_discussion": {
+      "paragraphs": 48,
+      "words": 2811,
+      "mean_sentence_length": 24.658,
+      "mean_paragraph_words": 58.562,
+      "sentence_initial_connective_share": 0.167,
+      "hedges_per_1k_words": 16.009,
+      "boosters_per_1k_words": 1.779,
+      "passive_per_100_sentences": 40.351,
+      "first_person_per_1k_words": 0.0,
+      "citations_per_1k_words": 2.49,
+      "top_sentence_initial_connectives": [
+        {
+          "phrase": "também",
+          "count": 9,
+          "per_10k": 32.02
+        },
+        {
+          "phrase": "por fim",
+          "count": 3,
+          "per_10k": 10.67
+        },
+        {
+          "phrase": "assim sendo",
+          "count": 3,
+          "per_10k": 10.67
+        },
+        {
+          "phrase": "ou seja",
+          "count": 2,
+          "per_10k": 7.11
+        },
+        {
+          "phrase": "logo",
+          "count": 1,
+          "per_10k": 3.56
+        },
+        {
+          "phrase": "porém",
+          "count": 1,
+          "per_10k": 3.56
+        }
+      ],
+      "top_paragraph_openers": [
+        {
+          "opener": "as páginas da",
+          "count": 2,
+          "per_10k": 7.11
+        },
+        {
+          "opener": "a segunda aba",
+          "count": 2,
+          "per_10k": 7.11
+        },
+        {
+          "opener": "observa-se a terceira",
+          "count": 2,
+          "per_10k": 7.11
+        },
+        {
+          "opener": "a validação das",
+          "count": 2,
+          "per_10k": 7.11
+        },
+        {
+          "opener": "é importante notar",
+          "count": 2,
+          "per_10k": 7.11
+        },
+        {
+          "opener": "é possível salvar",
+          "count": 2,
+          "per_10k": 7.11
+        },
+        {
+          "opener": "existe também um",
+          "count": 2,
+          "per_10k": 7.11
+        },
+        {
+          "opener": "constata-se também que",
+          "count": 2,
+          "per_10k": 7.11
+        }
+      ]
+    }
+  },
+  "baselines": {
+    "250": {
+      "chunk_size": 250,
+      "n_chunks": 146,
+      "features": {
+        "mean_sentence_length": {
+          "n": 146,
+          "mean": 27.464,
+          "sd": 5.793,
+          "min": 15.0,
+          "p10": 21.394,
+          "p25": 23.649,
+          "median": 26.759,
+          "p75": 30.05,
+          "p90": 34.111,
+          "max": 52.2
+        },
+        "sd_sentence_length": {
+          "n": 145,
+          "mean": 11.07,
+          "sd": 3.746,
+          "min": 1.414,
+          "p10": 7.146,
+          "p25": 8.915,
+          "median": 10.421,
+          "p75": 12.715,
+          "p90": 15.09,
+          "max": 28.105
+        },
+        "mean_paragraph_words": {
+          "n": 146,
+          "mean": 75.846,
+          "sd": 29.931,
+          "min": 15.0,
+          "p10": 44.059,
+          "p25": 57.125,
+          "median": 72.375,
+          "p75": 93.458,
+          "p90": 107.166,
+          "max": 273.0
+        },
+        "mean_paragraph_sentences": {
+          "n": 146,
+          "mean": 2.787,
+          "sd": 1.093,
+          "min": 1.0,
+          "p10": 1.691,
+          "p25": 2.0,
+          "median": 2.708,
+          "p75": 3.25,
+          "p90": 3.875,
+          "max": 11.0
+        },
+        "commas_per_sentence": {
+          "n": 146,
+          "mean": 2.027,
+          "sd": 0.649,
+          "min": 0.692,
+          "p10": 1.393,
+          "p25": 1.615,
+          "median": 1.923,
+          "p75": 2.333,
+          "p90": 2.683,
+          "max": 5.2
+        },
+        "semicolons_per_1k_words": {
+          "n": 146,
+          "mean": 1.177,
+          "sd": 4.649,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 0.0,
+          "p75": 0.0,
+          "p90": 0.0,
+          "max": 28.169
+        },
+        "colons_per_1k_words": {
+          "n": 146,
+          "mean": 1.388,
+          "sd": 4.655,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 0.0,
+          "p75": 0.0,
+          "p90": 3.442,
+          "max": 27.972
+        },
+        "parentheses_per_1k_words": {
+          "n": 146,
+          "mean": 5.222,
+          "sd": 10.778,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 0.0,
+          "p75": 6.334,
+          "p90": 11.905,
+          "max": 65.637
+        },
+        "connectives_per_1k_words": {
+          "n": 146,
+          "mean": 16.619,
+          "sd": 8.425,
+          "min": 0.0,
+          "p10": 6.793,
+          "p25": 10.363,
+          "median": 15.749,
+          "p75": 22.575,
+          "p90": 28.599,
+          "max": 38.585
+        },
+        "sentence_initial_connective_share": {
+          "n": 146,
+          "mean": 0.175,
+          "sd": 0.136,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.085,
+          "median": 0.154,
+          "p75": 0.25,
+          "p90": 0.364,
+          "max": 0.7
+        },
+        "hedges_per_1k_words": {
+          "n": 146,
+          "mean": 7.458,
+          "sd": 5.064,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 3.759,
+          "median": 7.463,
+          "p75": 10.265,
+          "p90": 14.159,
+          "max": 22.581
+        },
+        "boosters_per_1k_words": {
+          "n": 146,
+          "mean": 1.765,
+          "sd": 2.847,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 0.0,
+          "p75": 3.457,
+          "p90": 3.945,
+          "max": 16.043
+        },
+        "impersonal_per_1k_words": {
+          "n": 146,
+          "mean": 6.467,
+          "sd": 5.535,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 3.231,
+          "median": 5.716,
+          "p75": 9.426,
+          "p90": 13.927,
+          "max": 27.237
+        },
+        "passive_per_100_sentences": {
+          "n": 146,
+          "mean": 35.583,
+          "sd": 22.67,
+          "min": 0.0,
+          "p10": 10.0,
+          "p25": 20.0,
+          "median": 30.0,
+          "p75": 50.0,
+          "p90": 67.949,
+          "max": 112.5
+        },
+        "se_enclitic_per_1k_words": {
+          "n": 146,
+          "mean": 6.467,
+          "sd": 5.324,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 3.3,
+          "median": 5.611,
+          "p75": 9.909,
+          "p90": 12.559,
+          "max": 27.778
+        },
+        "first_person_per_1k_words": {
+          "n": 146,
+          "mean": 0.025,
+          "sd": 0.302,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 0.0,
+          "p75": 0.0,
+          "p90": 0.0,
+          "max": 3.65
+        },
+        "nominalizations_per_100_words": {
+          "n": 146,
+          "mean": 8.758,
+          "sd": 2.076,
+          "min": 4.335,
+          "p10": 5.956,
+          "p25": 7.278,
+          "median": 8.661,
+          "p75": 10.064,
+          "p90": 11.666,
+          "max": 13.88
+        },
+        "mean_word_length": {
+          "n": 146,
+          "mean": 5.345,
+          "sd": 0.303,
+          "min": 4.691,
+          "p10": 4.966,
+          "p25": 5.11,
+          "median": 5.334,
+          "p75": 5.547,
+          "p90": 5.787,
+          "max": 6.032
+        },
+        "long_word_share": {
+          "n": 146,
+          "mean": 0.144,
+          "sd": 0.033,
+          "min": 0.071,
+          "p10": 0.1,
+          "p25": 0.123,
+          "median": 0.145,
+          "p75": 0.167,
+          "p90": 0.185,
+          "max": 0.238
+        },
+        "mattr_100": {
+          "n": 146,
+          "mean": 0.712,
+          "sd": 0.039,
+          "min": 0.598,
+          "p10": 0.658,
+          "p25": 0.689,
+          "median": 0.715,
+          "p75": 0.738,
+          "p90": 0.762,
+          "max": 0.812
+        },
+        "citations_per_1k_words": {
+          "n": 146,
+          "mean": 5.982,
+          "sd": 7.158,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 3.516,
+          "p75": 10.944,
+          "p90": 17.057,
+          "max": 28.369
+        }
+      },
+      "function_words": {
+        "de": [
+          64.5656,
+          18.2564
+        ],
+        "a": [
+          37.5401,
+          13.1606
+        ],
+        "e": [
+          28.5868,
+          10.6879
+        ],
+        "o": [
+          24.0693,
+          11.9612
+        ],
+        "que": [
+          23.809,
+          11.2233
+        ],
+        "para": [
+          18.236,
+          9.0401
+        ],
+        "da": [
+          16.7169,
+          9.8621
+        ],
+        "os": [
+          13.7673,
+          9.4991
+        ],
+        "do": [
+          13.2561,
+          8.4913
+        ],
+        "com": [
+          12.1663,
+          6.9017
+        ],
+        "em": [
+          11.8673,
+          6.8171
+        ],
+        "é": [
+          10.7158,
+          8.0743
+        ],
+        "dados": [
+          10.253,
+          9.2661
+        ],
+        "as": [
+          9.6015,
+          7.0513
+        ],
+        "uma": [
+          9.2241,
+          7.0851
+        ],
+        "dos": [
+          8.9704,
+          7.0341
+        ],
+        "na": [
+          8.5486,
+          6.4177
+        ],
+        "das": [
+          7.8604,
+          5.9867
+        ],
+        "como": [
+          7.468,
+          6.0602
+        ],
+        "se": [
+          6.9221,
+          5.7115
+        ],
+        "um": [
+          6.8058,
+          5.3721
+        ],
+        "por": [
+          6.5191,
+          5.4149
+        ],
+        "no": [
+          5.7829,
+          5.0722
+        ],
+        "ao": [
+          4.4297,
+          4.4778
+        ],
+        "modelos": [
+          3.9823,
+          6.3606
+        ],
+        "mais": [
+          3.9248,
+          5.4505
+        ],
+        "figura": [
+          3.8758,
+          6.0244
+        ],
+        "são": [
+          3.6359,
+          4.2294
+        ],
+        "ser": [
+          3.6785,
+          3.7705
+        ],
+        "ferramenta": [
+          3.4599,
+          5.3748
+        ],
+        "possível": [
+          3.3117,
+          4.0917
+        ],
+        "partir": [
+          3.2904,
+          3.7358
+        ],
+        "foi": [
+          3.2684,
+          4.5509
+        ],
+        "precipitação": [
+          3.0227,
+          4.4634
+        ],
+        "forma": [
+          3.0925,
+          3.8017
+        ],
+        "equação": [
+          2.9237,
+          5.013
+        ],
+        "ou": [
+          2.8533,
+          4.0175
+        ],
+        "modelo": [
+          2.7717,
+          5.9918
+        ],
+        "através": [
+          2.6676,
+          3.3457
+        ],
+        "cálculo": [
+          2.7694,
+          5.1383
+        ],
+        "séries": [
+          2.5228,
+          4.3713
+        ],
+        "foram": [
+          2.563,
+          4.305
+        ],
+        "entre": [
+          2.489,
+          3.5053
+        ],
+        "sua": [
+          2.4685,
+          3.1954
+        ],
+        "não": [
+          2.375,
+          3.9177
+        ],
+        "também": [
+          2.2764,
+          3.0723
+        ],
+        "chuvas": [
+          2.2409,
+          5.3324
+        ],
+        "parâmetros": [
+          2.1813,
+          4.8885
+        ],
+        "precipitações": [
+          2.0857,
+          4.2717
+        ],
+        "além": [
+          2.1232,
+          2.889
+        ],
+        "estudos": [
+          2.1373,
+          4.9099
+        ],
+        "à": [
+          1.9785,
+          2.5515
+        ],
+        "já": [
+          2.0017,
+          2.906
+        ],
+        "nos": [
+          1.9574,
+          3.053
+        ],
+        "base": [
+          1.8981,
+          3.549
+        ],
+        "seu": [
+          1.874,
+          2.9857
+        ],
+        "pelo": [
+          1.7972,
+          2.7771
+        ],
+        "uso": [
+          1.8459,
+          3.1355
+        ],
+        "sendo": [
+          1.7635,
+          2.5931
+        ],
+        "podem": [
+          1.7301,
+          2.5338
+        ],
+        "pela": [
+          1.7901,
+          2.831
+        ],
+        "assim": [
+          1.7298,
+          2.4084
+        ],
+        "desenvolvimento": [
+          1.7327,
+          3.0019
+        ],
+        "pode": [
+          1.7576,
+          2.8498
+        ],
+        "cada": [
+          1.6653,
+          3.3384
+        ],
+        "cálculos": [
+          1.6819,
+          3.8089
+        ],
+        "equações": [
+          1.55,
+          3.6212
+        ],
+        "aos": [
+          1.5127,
+          2.5901
+        ],
+        "método": [
+          1.5461,
+          2.603
+        ],
+        "áreas": [
+          1.6077,
+          5.1176
+        ],
+        "métodos": [
+          1.4656,
+          2.7925
+        ],
+        "isso": [
+          1.4725,
+          2.582
+        ],
+        "diferentes": [
+          1.4542,
+          2.4152
+        ],
+        "climáticos": [
+          1.4187,
+          3.3577
+        ],
+        "am": [
+          1.4444,
+          3.7991
+        ],
+        "trabalho": [
+          1.4228,
+          2.3149
+        ],
+        "aplicação": [
+          1.3457,
+          3.2648
+        ],
+        "temporais": [
+          1.3295,
+          2.7909
+        ],
+        "análise": [
+          1.2893,
+          2.1476
+        ],
+        "processo": [
+          1.3324,
+          2.5038
+        ],
+        "idf": [
+          1.3211,
+          2.8115
+        ],
+        "apenas": [
+          1.3722,
+          2.1889
+        ],
+        "pontos": [
+          1.3064,
+          2.9815
+        ],
+        "sd": [
+          1.3011,
+          3.5281
+        ],
+        "protensão": [
+          1.3972,
+          4.7904
+        ],
+        "presente": [
+          1.3412,
+          2.3921
+        ],
+        "chuva": [
+          1.2487,
+          3.4477
+        ],
+        "resultados": [
+          1.3194,
+          2.7022
+        ],
+        "relação": [
+          1.24,
+          2.3262
+        ],
+        "informações": [
+          1.3,
+          2.4312
+        ],
+        "maior": [
+          1.3034,
+          2.217
+        ],
+        "tabela": [
+          1.243,
+          3.4241
+        ],
+        "cmip": [
+          1.2163,
+          3.5845
+        ],
+        "visto": [
+          1.2234,
+          1.9537
+        ],
+        "nas": [
+          1.2076,
+          2.2239
+        ],
+        "onde": [
+          1.1624,
+          2.4015
+        ],
+        "melhor": [
+          1.1624,
+          2.35
+        ],
+        "mudanças": [
+          1.1432,
+          2.8449
+        ],
+        "climáticas": [
+          1.153,
+          2.6149
+        ],
+        "cenários": [
+          1.1648,
+          3.8345
+        ]
+      },
+      "delta_own_chunks": {
+        "n": 146,
+        "mean": 0.76,
+        "sd": 0.086,
+        "min": 0.585,
+        "p10": 0.655,
+        "p25": 0.697,
+        "median": 0.752,
+        "p75": 0.817,
+        "p90": 0.878,
+        "max": 1.094
+      }
+    },
+    "500": {
+      "chunk_size": 500,
+      "n_chunks": 79,
+      "features": {
+        "mean_sentence_length": {
+          "n": 79,
+          "mean": 27.263,
+          "sd": 4.085,
+          "min": 19.37,
+          "p10": 22.59,
+          "p25": 24.21,
+          "median": 26.9,
+          "p75": 29.937,
+          "p90": 32.956,
+          "max": 40.077
+        },
+        "sd_sentence_length": {
+          "n": 79,
+          "mean": 11.366,
+          "sd": 3.43,
+          "min": 5.403,
+          "p10": 7.608,
+          "p25": 9.093,
+          "median": 10.898,
+          "p75": 12.948,
+          "p90": 14.939,
+          "max": 25.049
+        },
+        "mean_paragraph_words": {
+          "n": 79,
+          "mean": 74.391,
+          "sd": 23.978,
+          "min": 23.0,
+          "p10": 46.524,
+          "p25": 58.166,
+          "median": 73.0,
+          "p75": 89.084,
+          "p90": 105.067,
+          "max": 159.75
+        },
+        "mean_paragraph_sentences": {
+          "n": 79,
+          "mean": 2.739,
+          "sd": 0.844,
+          "min": 1.0,
+          "p10": 1.738,
+          "p25": 2.183,
+          "median": 2.625,
+          "p75": 3.155,
+          "p90": 3.866,
+          "max": 5.5
+        },
+        "commas_per_sentence": {
+          "n": 79,
+          "mean": 1.997,
+          "sd": 0.486,
+          "min": 1.043,
+          "p10": 1.442,
+          "p25": 1.696,
+          "median": 1.905,
+          "p75": 2.232,
+          "p90": 2.662,
+          "max": 3.308
+        },
+        "semicolons_per_1k_words": {
+          "n": 79,
+          "mean": 1.208,
+          "sd": 3.628,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 0.0,
+          "p75": 0.0,
+          "p90": 3.845,
+          "max": 17.986
+        },
+        "colons_per_1k_words": {
+          "n": 79,
+          "mean": 1.368,
+          "sd": 4.195,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 0.0,
+          "p75": 0.0,
+          "p90": 2.32,
+          "max": 23.132
+        },
+        "parentheses_per_1k_words": {
+          "n": 79,
+          "mean": 5.158,
+          "sd": 9.732,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 1.862,
+          "p75": 5.764,
+          "p90": 10.083,
+          "max": 62.257
+        },
+        "connectives_per_1k_words": {
+          "n": 79,
+          "mean": 16.797,
+          "sd": 6.527,
+          "min": 5.976,
+          "p10": 8.818,
+          "p25": 12.186,
+          "median": 15.817,
+          "p75": 21.228,
+          "p90": 25.382,
+          "max": 35.019
+        },
+        "sentence_initial_connective_share": {
+          "n": 79,
+          "mean": 0.179,
+          "sd": 0.107,
+          "min": 0.0,
+          "p10": 0.045,
+          "p25": 0.098,
+          "median": 0.167,
+          "p75": 0.255,
+          "p90": 0.316,
+          "max": 0.444
+        },
+        "hedges_per_1k_words": {
+          "n": 79,
+          "mean": 7.45,
+          "sd": 4.878,
+          "min": 0.0,
+          "p10": 1.764,
+          "p25": 3.764,
+          "median": 7.156,
+          "p75": 10.137,
+          "p90": 13.629,
+          "max": 20.716
+        },
+        "boosters_per_1k_words": {
+          "n": 79,
+          "mean": 1.771,
+          "sd": 2.107,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 1.815,
+          "p75": 1.992,
+          "p90": 5.211,
+          "max": 7.921
+        },
+        "impersonal_per_1k_words": {
+          "n": 79,
+          "mean": 6.634,
+          "sd": 4.479,
+          "min": 0.0,
+          "p10": 1.745,
+          "p25": 3.562,
+          "median": 5.917,
+          "p75": 9.515,
+          "p90": 12.838,
+          "max": 18.832
+        },
+        "passive_per_100_sentences": {
+          "n": 79,
+          "mean": 35.421,
+          "sd": 18.499,
+          "min": 0.0,
+          "p10": 14.156,
+          "p25": 21.584,
+          "median": 34.783,
+          "p75": 45.644,
+          "p90": 56.646,
+          "max": 100.0
+        },
+        "se_enclitic_per_1k_words": {
+          "n": 79,
+          "mean": 6.525,
+          "sd": 4.319,
+          "min": 0.0,
+          "p10": 1.797,
+          "p25": 3.607,
+          "median": 5.894,
+          "p75": 9.093,
+          "p90": 12.591,
+          "max": 19.455
+        },
+        "first_person_per_1k_words": {
+          "n": 79,
+          "mean": 0.022,
+          "sd": 0.198,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 0.0,
+          "p75": 0.0,
+          "p90": 0.0,
+          "max": 1.764
+        },
+        "nominalizations_per_100_words": {
+          "n": 79,
+          "mean": 8.74,
+          "sd": 1.763,
+          "min": 5.344,
+          "p10": 6.548,
+          "p25": 7.615,
+          "median": 8.566,
+          "p75": 9.943,
+          "p90": 11.102,
+          "max": 13.102
+        },
+        "mean_word_length": {
+          "n": 79,
+          "mean": 5.335,
+          "sd": 0.261,
+          "min": 4.79,
+          "p10": 5.025,
+          "p25": 5.158,
+          "median": 5.325,
+          "p75": 5.514,
+          "p90": 5.684,
+          "max": 6.076
+        },
+        "long_word_share": {
+          "n": 79,
+          "mean": 0.144,
+          "sd": 0.029,
+          "min": 0.067,
+          "p10": 0.111,
+          "p25": 0.126,
+          "median": 0.143,
+          "p75": 0.163,
+          "p90": 0.18,
+          "max": 0.211
+        },
+        "mattr_100": {
+          "n": 79,
+          "mean": 0.714,
+          "sd": 0.03,
+          "min": 0.645,
+          "p10": 0.67,
+          "p25": 0.698,
+          "median": 0.715,
+          "p75": 0.732,
+          "p90": 0.747,
+          "max": 0.793
+        },
+        "citations_per_1k_words": {
+          "n": 79,
+          "mean": 5.995,
+          "sd": 6.31,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 5.484,
+          "p75": 9.862,
+          "p90": 15.294,
+          "max": 23.593
+        }
+      },
+      "function_words": {
+        "de": [
+          64.3991,
+          14.2496
+        ],
+        "a": [
+          37.5291,
+          9.5528
+        ],
+        "e": [
+          28.6297,
+          8.2297
+        ],
+        "o": [
+          24.0603,
+          9.6791
+        ],
+        "que": [
+          24.457,
+          10.869
+        ],
+        "para": [
+          18.0579,
+          6.9843
+        ],
+        "da": [
+          16.8596,
+          8.354
+        ],
+        "os": [
+          13.6905,
+          7.573
+        ],
+        "do": [
+          13.3007,
+          6.4131
+        ],
+        "com": [
+          11.891,
+          5.9285
+        ],
+        "em": [
+          11.7906,
+          5.2199
+        ],
+        "é": [
+          10.8147,
+          6.7824
+        ],
+        "dados": [
+          10.3276,
+          8.0648
+        ],
+        "as": [
+          9.5098,
+          5.5504
+        ],
+        "uma": [
+          9.2737,
+          5.647
+        ],
+        "dos": [
+          9.0091,
+          5.6769
+        ],
+        "na": [
+          8.4306,
+          5.3772
+        ],
+        "das": [
+          7.904,
+          4.6833
+        ],
+        "como": [
+          7.6472,
+          4.5056
+        ],
+        "se": [
+          6.9849,
+          4.9104
+        ],
+        "um": [
+          6.8421,
+          4.1229
+        ],
+        "por": [
+          6.459,
+          4.2488
+        ],
+        "no": [
+          5.7955,
+          3.7873
+        ],
+        "ao": [
+          4.4359,
+          3.056
+        ],
+        "modelos": [
+          3.9809,
+          6.086
+        ],
+        "mais": [
+          3.9278,
+          4.8509
+        ],
+        "figura": [
+          3.8909,
+          5.1332
+        ],
+        "são": [
+          3.6782,
+          3.2863
+        ],
+        "ser": [
+          3.6849,
+          3.0305
+        ],
+        "ferramenta": [
+          3.534,
+          4.6865
+        ],
+        "possível": [
+          3.3064,
+          3.3111
+        ],
+        "partir": [
+          3.1871,
+          2.8617
+        ],
+        "foi": [
+          3.3294,
+          3.7228
+        ],
+        "precipitação": [
+          3.0861,
+          3.9065
+        ],
+        "forma": [
+          3.0919,
+          3.0401
+        ],
+        "equação": [
+          3.1305,
+          4.8447
+        ],
+        "ou": [
+          2.8797,
+          3.5002
+        ],
+        "modelo": [
+          2.8073,
+          5.4942
+        ],
+        "através": [
+          2.6754,
+          2.4445
+        ],
+        "cálculo": [
+          2.7397,
+          4.3566
+        ],
+        "séries": [
+          2.6076,
+          3.9958
+        ],
+        "foram": [
+          2.6299,
+          3.6077
+        ],
+        "entre": [
+          2.4483,
+          2.5966
+        ],
+        "sua": [
+          2.4726,
+          2.2946
+        ],
+        "não": [
+          2.421,
+          2.8935
+        ],
+        "também": [
+          2.3027,
+          2.2746
+        ],
+        "chuvas": [
+          2.2396,
+          4.8358
+        ],
+        "parâmetros": [
+          2.214,
+          4.0695
+        ],
+        "precipitações": [
+          2.0551,
+          3.515
+        ],
+        "além": [
+          2.1579,
+          2.0824
+        ],
+        "estudos": [
+          2.0835,
+          4.3849
+        ],
+        "à": [
+          1.949,
+          1.9819
+        ],
+        "já": [
+          1.9829,
+          2.3326
+        ],
+        "nos": [
+          1.9288,
+          2.5063
+        ],
+        "base": [
+          1.9343,
+          2.9048
+        ],
+        "seu": [
+          1.8948,
+          2.4381
+        ],
+        "pelo": [
+          1.8016,
+          2.3296
+        ],
+        "uso": [
+          1.8688,
+          2.5894
+        ],
+        "sendo": [
+          1.8201,
+          2.1845
+        ],
+        "podem": [
+          1.7435,
+          2.0087
+        ],
+        "pela": [
+          1.7502,
+          1.9394
+        ],
+        "assim": [
+          1.7557,
+          1.8123
+        ],
+        "desenvolvimento": [
+          1.759,
+          2.3701
+        ],
+        "pode": [
+          1.7174,
+          2.3652
+        ],
+        "cada": [
+          1.6569,
+          2.7112
+        ],
+        "cálculos": [
+          1.7284,
+          3.1704
+        ],
+        "equações": [
+          1.621,
+          3.4332
+        ],
+        "aos": [
+          1.5678,
+          1.8059
+        ],
+        "método": [
+          1.5504,
+          2.1613
+        ],
+        "áreas": [
+          1.5567,
+          4.4458
+        ],
+        "métodos": [
+          1.4705,
+          2.1306
+        ],
+        "isso": [
+          1.5084,
+          1.9131
+        ],
+        "diferentes": [
+          1.4085,
+          1.9649
+        ],
+        "climáticos": [
+          1.3844,
+          2.6815
+        ],
+        "am": [
+          1.4168,
+          3.0387
+        ],
+        "trabalho": [
+          1.3473,
+          1.7518
+        ],
+        "aplicação": [
+          1.3865,
+          2.7381
+        ],
+        "temporais": [
+          1.3246,
+          2.4102
+        ],
+        "análise": [
+          1.4179,
+          2.0373
+        ],
+        "processo": [
+          1.324,
+          1.9894
+        ],
+        "idf": [
+          1.4151,
+          2.6844
+        ],
+        "apenas": [
+          1.3147,
+          1.4663
+        ],
+        "pontos": [
+          1.2993,
+          2.3487
+        ],
+        "sd": [
+          1.3325,
+          3.1952
+        ],
+        "protensão": [
+          1.3681,
+          4.3772
+        ],
+        "presente": [
+          1.2601,
+          1.7937
+        ],
+        "chuva": [
+          1.233,
+          2.8127
+        ],
+        "resultados": [
+          1.2748,
+          2.0155
+        ],
+        "relação": [
+          1.2444,
+          1.6706
+        ],
+        "informações": [
+          1.2494,
+          1.7264
+        ],
+        "maior": [
+          1.2728,
+          1.6793
+        ],
+        "tabela": [
+          1.2376,
+          2.5053
+        ],
+        "cmip": [
+          1.2065,
+          2.6283
+        ],
+        "visto": [
+          1.2333,
+          1.5448
+        ],
+        "nas": [
+          1.1957,
+          1.5729
+        ],
+        "onde": [
+          1.1956,
+          1.88
+        ],
+        "melhor": [
+          1.1774,
+          2.1507
+        ],
+        "mudanças": [
+          1.1215,
+          2.4798
+        ],
+        "climáticas": [
+          1.1245,
+          2.2935
+        ],
+        "cenários": [
+          1.1196,
+          2.6719
+        ]
+      },
+      "delta_own_chunks": {
+        "n": 79,
+        "mean": 0.771,
+        "sd": 0.091,
+        "min": 0.595,
+        "p10": 0.671,
+        "p25": 0.704,
+        "median": 0.754,
+        "p75": 0.826,
+        "p90": 0.879,
+        "max": 0.994
+      }
+    },
+    "1000": {
+      "chunk_size": 1000,
+      "n_chunks": 41,
+      "features": {
+        "mean_sentence_length": {
+          "n": 41,
+          "mean": 27.022,
+          "sd": 3.09,
+          "min": 21.298,
+          "p10": 23.628,
+          "p25": 25.195,
+          "median": 26.659,
+          "p75": 29.286,
+          "p90": 31.75,
+          "max": 33.76
+        },
+        "sd_sentence_length": {
+          "n": 41,
+          "mean": 11.527,
+          "sd": 2.548,
+          "min": 7.035,
+          "p10": 8.858,
+          "p25": 9.93,
+          "median": 10.956,
+          "p75": 12.576,
+          "p90": 15.064,
+          "max": 19.009
+        },
+        "mean_paragraph_words": {
+          "n": 41,
+          "mean": 73.313,
+          "sd": 19.456,
+          "min": 40.0,
+          "p10": 50.9,
+          "p25": 59.765,
+          "median": 68.867,
+          "p75": 85.4,
+          "p90": 95.545,
+          "max": 128.375
+        },
+        "mean_paragraph_sentences": {
+          "n": 41,
+          "mean": 2.707,
+          "sd": 0.622,
+          "min": 1.667,
+          "p10": 2.077,
+          "p25": 2.188,
+          "median": 2.647,
+          "p75": 3.091,
+          "p90": 3.667,
+          "max": 4.0
+        },
+        "commas_per_sentence": {
+          "n": 41,
+          "mean": 1.977,
+          "sd": 0.384,
+          "min": 1.279,
+          "p10": 1.615,
+          "p25": 1.711,
+          "median": 1.881,
+          "p75": 2.143,
+          "p90": 2.529,
+          "max": 2.938
+        },
+        "semicolons_per_1k_words": {
+          "n": 41,
+          "mean": 1.155,
+          "sd": 2.601,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 0.0,
+          "p75": 0.0,
+          "p90": 5.97,
+          "max": 9.99
+        },
+        "colons_per_1k_words": {
+          "n": 41,
+          "mean": 1.301,
+          "sd": 3.928,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 0.0,
+          "p75": 0.0,
+          "p90": 1.938,
+          "max": 20.408
+        },
+        "parentheses_per_1k_words": {
+          "n": 41,
+          "mean": 5.25,
+          "sd": 8.738,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.949,
+          "median": 2.606,
+          "p75": 5.0,
+          "p90": 12.695,
+          "max": 48.0
+        },
+        "connectives_per_1k_words": {
+          "n": 41,
+          "mean": 16.602,
+          "sd": 4.663,
+          "min": 7.7,
+          "p10": 10.989,
+          "p25": 12.832,
+          "median": 16.727,
+          "p75": 19.924,
+          "p90": 20.561,
+          "max": 27.802
+        },
+        "sentence_initial_connective_share": {
+          "n": 41,
+          "mean": 0.173,
+          "sd": 0.081,
+          "min": 0.0,
+          "p10": 0.075,
+          "p25": 0.119,
+          "median": 0.163,
+          "p75": 0.244,
+          "p90": 0.273,
+          "max": 0.333
+        },
+        "hedges_per_1k_words": {
+          "n": 41,
+          "mean": 7.532,
+          "sd": 3.413,
+          "min": 0.972,
+          "p10": 2.907,
+          "p25": 5.348,
+          "median": 7.59,
+          "p75": 8.902,
+          "p90": 11.0,
+          "max": 17.578
+        },
+        "boosters_per_1k_words": {
+          "n": 41,
+          "mean": 1.775,
+          "sd": 1.672,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.878,
+          "median": 1.377,
+          "p75": 2.75,
+          "p90": 3.565,
+          "max": 6.89
+        },
+        "impersonal_per_1k_words": {
+          "n": 41,
+          "mean": 6.605,
+          "sd": 3.625,
+          "min": 0.0,
+          "p10": 1.944,
+          "p25": 3.937,
+          "median": 6.641,
+          "p75": 8.858,
+          "p90": 10.88,
+          "max": 14.735
+        },
+        "passive_per_100_sentences": {
+          "n": 41,
+          "mean": 35.079,
+          "sd": 13.961,
+          "min": 9.091,
+          "p10": 18.605,
+          "p25": 23.404,
+          "median": 36.364,
+          "p75": 44.118,
+          "p90": 51.22,
+          "max": 67.5
+        },
+        "se_enclitic_per_1k_words": {
+          "n": 41,
+          "mean": 6.554,
+          "sd": 3.426,
+          "min": 1.833,
+          "p10": 2.904,
+          "p25": 3.937,
+          "median": 5.831,
+          "p75": 8.264,
+          "p90": 10.806,
+          "max": 14.881
+        },
+        "first_person_per_1k_words": {
+          "n": 41,
+          "mean": 0.024,
+          "sd": 0.154,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 0.0,
+          "p75": 0.0,
+          "p90": 0.0,
+          "max": 0.984
+        },
+        "nominalizations_per_100_words": {
+          "n": 41,
+          "mean": 8.768,
+          "sd": 1.321,
+          "min": 6.04,
+          "p10": 6.9,
+          "p25": 8.071,
+          "median": 8.806,
+          "p75": 9.705,
+          "p90": 10.149,
+          "max": 11.719
+        },
+        "mean_word_length": {
+          "n": 41,
+          "mean": 5.343,
+          "sd": 0.199,
+          "min": 4.997,
+          "p10": 5.113,
+          "p25": 5.174,
+          "median": 5.342,
+          "p75": 5.483,
+          "p90": 5.6,
+          "max": 5.851
+        },
+        "long_word_share": {
+          "n": 41,
+          "mean": 0.144,
+          "sd": 0.024,
+          "min": 0.095,
+          "p10": 0.12,
+          "p25": 0.129,
+          "median": 0.144,
+          "p75": 0.164,
+          "p90": 0.174,
+          "max": 0.189
+        },
+        "mattr_100": {
+          "n": 41,
+          "mean": 0.712,
+          "sd": 0.025,
+          "min": 0.658,
+          "p10": 0.679,
+          "p25": 0.699,
+          "median": 0.715,
+          "p75": 0.725,
+          "p90": 0.743,
+          "max": 0.774
+        },
+        "citations_per_1k_words": {
+          "n": 41,
+          "mean": 6.133,
+          "sd": 5.917,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.972,
+          "median": 6.239,
+          "p75": 10.659,
+          "p90": 13.78,
+          "max": 22.931
+        }
+      },
+      "function_words": {
+        "de": [
+          64.6392,
+          12.1028
+        ],
+        "a": [
+          37.3851,
+          7.4303
+        ],
+        "e": [
+          28.7193,
+          6.5786
+        ],
+        "o": [
+          23.9373,
+          6.5878
+        ],
+        "que": [
+          24.0478,
+          8.3119
+        ],
+        "para": [
+          18.0903,
+          5.7924
+        ],
+        "da": [
+          16.726,
+          6.9667
+        ],
+        "os": [
+          13.7534,
+          5.991
+        ],
+        "do": [
+          13.1471,
+          5.4819
+        ],
+        "com": [
+          11.9244,
+          4.4966
+        ],
+        "em": [
+          11.8151,
+          3.9903
+        ],
+        "é": [
+          10.8305,
+          5.5584
+        ],
+        "dados": [
+          10.23,
+          7.1901
+        ],
+        "as": [
+          9.6325,
+          4.1621
+        ],
+        "uma": [
+          9.331,
+          4.7319
+        ],
+        "dos": [
+          8.8752,
+          4.6391
+        ],
+        "na": [
+          8.4566,
+          4.2853
+        ],
+        "das": [
+          7.8467,
+          4.0013
+        ],
+        "como": [
+          7.6514,
+          3.6011
+        ],
+        "se": [
+          6.8202,
+          3.644
+        ],
+        "um": [
+          6.7902,
+          3.0053
+        ],
+        "por": [
+          6.5092,
+          3.1849
+        ],
+        "no": [
+          5.8537,
+          2.5322
+        ],
+        "ao": [
+          4.4253,
+          2.6778
+        ],
+        "modelos": [
+          3.9038,
+          5.5323
+        ],
+        "mais": [
+          3.9867,
+          4.105
+        ],
+        "figura": [
+          3.8398,
+          4.1034
+        ],
+        "são": [
+          3.7567,
+          2.5148
+        ],
+        "ser": [
+          3.6884,
+          2.5107
+        ],
+        "ferramenta": [
+          3.5266,
+          4.5904
+        ],
+        "possível": [
+          3.3305,
+          2.7697
+        ],
+        "partir": [
+          3.1932,
+          2.4328
+        ],
+        "foi": [
+          3.257,
+          2.847
+        ],
+        "precipitação": [
+          3.0794,
+          3.5008
+        ],
+        "forma": [
+          3.0999,
+          2.0881
+        ],
+        "equação": [
+          3.0157,
+          4.2011
+        ],
+        "ou": [
+          2.8629,
+          2.5033
+        ],
+        "modelo": [
+          2.7431,
+          5.0863
+        ],
+        "através": [
+          2.658,
+          1.9397
+        ],
+        "cálculo": [
+          2.7234,
+          4.2024
+        ],
+        "séries": [
+          2.5228,
+          3.0887
+        ],
+        "foram": [
+          2.5782,
+          2.7837
+        ],
+        "entre": [
+          2.5312,
+          1.9502
+        ],
+        "sua": [
+          2.4451,
+          1.3231
+        ],
+        "não": [
+          2.3611,
+          2.3125
+        ],
+        "também": [
+          2.3203,
+          1.9666
+        ],
+        "chuvas": [
+          2.2683,
+          4.2987
+        ],
+        "parâmetros": [
+          2.1874,
+          3.6841
+        ],
+        "precipitações": [
+          2.0925,
+          2.813
+        ],
+        "além": [
+          2.1266,
+          1.5097
+        ],
+        "estudos": [
+          2.0817,
+          3.9778
+        ],
+        "à": [
+          2.0318,
+          1.5608
+        ],
+        "já": [
+          1.9782,
+          1.6141
+        ],
+        "nos": [
+          1.9393,
+          1.6768
+        ],
+        "base": [
+          1.9002,
+          2.6834
+        ],
+        "seu": [
+          1.84,
+          1.6349
+        ],
+        "pelo": [
+          1.8068,
+          1.6302
+        ],
+        "uso": [
+          1.798,
+          1.9491
+        ],
+        "sendo": [
+          1.8244,
+          1.5313
+        ],
+        "podem": [
+          1.7765,
+          1.5017
+        ],
+        "pela": [
+          1.7828,
+          1.3451
+        ],
+        "assim": [
+          1.7483,
+          1.5411
+        ],
+        "desenvolvimento": [
+          1.6839,
+          1.7601
+        ],
+        "pode": [
+          1.6859,
+          1.7606
+        ],
+        "cada": [
+          1.6841,
+          2.428
+        ],
+        "cálculos": [
+          1.7277,
+          2.6131
+        ],
+        "equações": [
+          1.6495,
+          3.2417
+        ],
+        "aos": [
+          1.5557,
+          1.3524
+        ],
+        "método": [
+          1.5782,
+          1.821
+        ],
+        "áreas": [
+          1.4779,
+          3.82
+        ],
+        "métodos": [
+          1.5112,
+          1.5088
+        ],
+        "isso": [
+          1.5007,
+          1.3023
+        ],
+        "diferentes": [
+          1.4536,
+          1.3405
+        ],
+        "climáticos": [
+          1.3726,
+          2.4899
+        ],
+        "am": [
+          1.36,
+          2.6933
+        ],
+        "trabalho": [
+          1.3661,
+          1.3125
+        ],
+        "aplicação": [
+          1.4013,
+          2.4192
+        ],
+        "temporais": [
+          1.3075,
+          2.144
+        ],
+        "análise": [
+          1.3175,
+          1.3678
+        ],
+        "processo": [
+          1.3648,
+          1.4776
+        ],
+        "idf": [
+          1.3505,
+          2.33
+        ],
+        "apenas": [
+          1.3222,
+          1.1879
+        ],
+        "pontos": [
+          1.2939,
+          2.2558
+        ],
+        "sd": [
+          1.2723,
+          2.5445
+        ],
+        "protensão": [
+          1.445,
+          4.4872
+        ],
+        "presente": [
+          1.3168,
+          1.3957
+        ],
+        "chuva": [
+          1.273,
+          2.7222
+        ],
+        "resultados": [
+          1.3271,
+          1.7677
+        ],
+        "relação": [
+          1.2829,
+          1.3689
+        ],
+        "informações": [
+          1.2591,
+          1.3487
+        ],
+        "maior": [
+          1.2722,
+          1.3999
+        ],
+        "tabela": [
+          1.284,
+          2.0912
+        ],
+        "cmip": [
+          1.1928,
+          2.2194
+        ],
+        "visto": [
+          1.2181,
+          1.3964
+        ],
+        "nas": [
+          1.193,
+          1.3298
+        ],
+        "onde": [
+          1.2167,
+          1.3552
+        ],
+        "melhor": [
+          1.1808,
+          1.4332
+        ],
+        "mudanças": [
+          1.1309,
+          2.5434
+        ],
+        "climáticas": [
+          1.1297,
+          2.3446
+        ],
+        "cenários": [
+          1.1133,
+          2.542
+        ]
+      },
+      "delta_own_chunks": {
+        "n": 41,
+        "mean": 0.8,
+        "sd": 0.094,
+        "min": 0.651,
+        "p10": 0.678,
+        "p25": 0.724,
+        "median": 0.793,
+        "p75": 0.855,
+        "p90": 0.906,
+        "max": 1.066
+      }
+    },
+    "2000": {
+      "chunk_size": 2000,
+      "n_chunks": 20,
+      "features": {
+        "mean_sentence_length": {
+          "n": 20,
+          "mean": 26.898,
+          "sd": 2.18,
+          "min": 23.261,
+          "p10": 24.458,
+          "p25": 25.532,
+          "median": 26.66,
+          "p75": 28.306,
+          "p90": 29.312,
+          "max": 32.5
+        },
+        "sd_sentence_length": {
+          "n": 20,
+          "mean": 11.721,
+          "sd": 2.116,
+          "min": 8.693,
+          "p10": 9.684,
+          "p25": 10.379,
+          "median": 11.538,
+          "p75": 12.521,
+          "p90": 13.86,
+          "max": 17.76
+        },
+        "mean_paragraph_words": {
+          "n": 20,
+          "mean": 72.453,
+          "sd": 15.39,
+          "min": 47.762,
+          "p10": 54.621,
+          "p25": 61.407,
+          "median": 70.142,
+          "p75": 85.323,
+          "p90": 92.288,
+          "max": 97.0
+        },
+        "mean_paragraph_sentences": {
+          "n": 20,
+          "mean": 2.682,
+          "sd": 0.473,
+          "min": 1.952,
+          "p10": 2.172,
+          "p25": 2.328,
+          "median": 2.596,
+          "p75": 2.865,
+          "p90": 3.38,
+          "max": 3.714
+        },
+        "commas_per_sentence": {
+          "n": 20,
+          "mean": 1.969,
+          "sd": 0.296,
+          "min": 1.549,
+          "p10": 1.697,
+          "p25": 1.774,
+          "median": 1.925,
+          "p75": 2.107,
+          "p90": 2.408,
+          "max": 2.73
+        },
+        "semicolons_per_1k_words": {
+          "n": 20,
+          "mean": 1.286,
+          "sd": 2.405,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 0.0,
+          "p75": 2.22,
+          "p90": 4.051,
+          "max": 9.155
+        },
+        "colons_per_1k_words": {
+          "n": 20,
+          "mean": 1.459,
+          "sd": 2.961,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 0.0,
+          "p75": 1.117,
+          "p90": 4.723,
+          "max": 11.309
+        },
+        "parentheses_per_1k_words": {
+          "n": 20,
+          "mean": 5.318,
+          "sd": 8.085,
+          "min": 0.494,
+          "p10": 0.944,
+          "p25": 1.436,
+          "median": 2.958,
+          "p75": 4.588,
+          "p90": 10.944,
+          "max": 36.889
+        },
+        "connectives_per_1k_words": {
+          "n": 20,
+          "mean": 16.535,
+          "sd": 2.594,
+          "min": 13.739,
+          "p10": 13.954,
+          "p25": 14.494,
+          "median": 15.908,
+          "p75": 17.697,
+          "p90": 19.906,
+          "max": 24.036
+        },
+        "sentence_initial_connective_share": {
+          "n": 20,
+          "mean": 0.173,
+          "sd": 0.054,
+          "min": 0.077,
+          "p10": 0.097,
+          "p25": 0.134,
+          "median": 0.184,
+          "p75": 0.21,
+          "p90": 0.227,
+          "max": 0.27
+        },
+        "hedges_per_1k_words": {
+          "n": 20,
+          "mean": 7.393,
+          "sd": 2.042,
+          "min": 2.969,
+          "p10": 5.245,
+          "p25": 6.298,
+          "median": 7.188,
+          "p75": 9.391,
+          "p90": 9.913,
+          "max": 10.09
+        },
+        "boosters_per_1k_words": {
+          "n": 20,
+          "mean": 1.717,
+          "sd": 1.104,
+          "min": 0.493,
+          "p10": 0.497,
+          "p25": 0.995,
+          "median": 1.487,
+          "p75": 1.997,
+          "p90": 3.025,
+          "max": 4.449
+        },
+        "impersonal_per_1k_words": {
+          "n": 20,
+          "mean": 6.309,
+          "sd": 3.167,
+          "min": 0.498,
+          "p10": 2.812,
+          "p25": 3.96,
+          "median": 6.322,
+          "p75": 8.249,
+          "p90": 10.061,
+          "max": 12.299
+        },
+        "passive_per_100_sentences": {
+          "n": 20,
+          "mean": 35.177,
+          "sd": 8.073,
+          "min": 14.493,
+          "p10": 25.608,
+          "p25": 30.958,
+          "median": 35.805,
+          "p75": 38.294,
+          "p90": 46.131,
+          "max": 47.5
+        },
+        "se_enclitic_per_1k_words": {
+          "n": 20,
+          "mean": 6.3,
+          "sd": 2.75,
+          "min": 2.693,
+          "p10": 3.416,
+          "p25": 4.33,
+          "median": 5.719,
+          "p75": 7.771,
+          "p90": 9.676,
+          "max": 12.494
+        },
+        "first_person_per_1k_words": {
+          "n": 20,
+          "mean": 0.025,
+          "sd": 0.111,
+          "min": 0.0,
+          "p10": 0.0,
+          "p25": 0.0,
+          "median": 0.0,
+          "p75": 0.0,
+          "p90": 0.0,
+          "max": 0.495
+        },
+        "nominalizations_per_100_words": {
+          "n": 20,
+          "mean": 8.791,
+          "sd": 1.002,
+          "min": 6.981,
+          "p10": 7.533,
+          "p25": 8.154,
+          "median": 8.835,
+          "p75": 9.172,
+          "p90": 9.813,
+          "max": 11.377
+        },
+        "mean_word_length": {
+          "n": 20,
+          "mean": 5.347,
+          "sd": 0.151,
+          "min": 5.168,
+          "p10": 5.178,
+          "p25": 5.224,
+          "median": 5.335,
+          "p75": 5.433,
+          "p90": 5.53,
+          "max": 5.726
+        },
+        "long_word_share": {
+          "n": 20,
+          "mean": 0.145,
+          "sd": 0.017,
+          "min": 0.109,
+          "p10": 0.123,
+          "p25": 0.134,
+          "median": 0.142,
+          "p75": 0.16,
+          "p90": 0.166,
+          "max": 0.168
+        },
+        "mattr_100": {
+          "n": 20,
+          "mean": 0.713,
+          "sd": 0.019,
+          "min": 0.674,
+          "p10": 0.689,
+          "p25": 0.698,
+          "median": 0.718,
+          "p75": 0.727,
+          "p90": 0.733,
+          "max": 0.745
+        },
+        "citations_per_1k_words": {
+          "n": 20,
+          "mean": 6.178,
+          "sd": 5.387,
+          "min": 0.0,
+          "p10": 0.426,
+          "p25": 0.883,
+          "median": 4.925,
+          "p75": 10.454,
+          "p90": 13.018,
+          "max": 16.827
+        }
+      },
+      "function_words": {
+        "de": [
+          64.4601,
+          7.7667
+        ],
+        "a": [
+          37.716,
+          5.4239
+        ],
+        "e": [
+          28.6659,
+          4.987
+        ],
+        "o": [
+          24.0111,
+          5.7238
+        ],
+        "que": [
+          23.7936,
+          6.5236
+        ],
+        "para": [
+          17.9632,
+          4.5441
+        ],
+        "da": [
+          16.2845,
+          6.1657
+        ],
+        "os": [
+          13.7145,
+          4.8841
+        ],
+        "do": [
+          13.3204,
+          4.3442
+        ],
+        "com": [
+          12.051,
+          3.6227
+        ],
+        "em": [
+          11.9537,
+          3.0397
+        ],
+        "é": [
+          10.7218,
+          4.7028
+        ],
+        "dados": [
+          10.5165,
+          6.2495
+        ],
+        "as": [
+          9.5263,
+          3.0834
+        ],
+        "uma": [
+          9.2201,
+          3.4041
+        ],
+        "dos": [
+          9.1389,
+          3.3826
+        ],
+        "na": [
+          8.3872,
+          3.2332
+        ],
+        "das": [
+          7.841,
+          3.3503
+        ],
+        "como": [
+          7.6438,
+          3.018
+        ],
+        "se": [
+          6.8797,
+          2.8889
+        ],
+        "um": [
+          6.6735,
+          2.3598
+        ],
+        "por": [
+          6.5704,
+          2.552
+        ],
+        "no": [
+          5.7368,
+          2.0247
+        ],
+        "ao": [
+          4.5061,
+          2.0086
+        ],
+        "modelos": [
+          4.2044,
+          4.94
+        ],
+        "mais": [
+          3.9999,
+          3.3782
+        ],
+        "figura": [
+          3.7573,
+          3.0842
+        ],
+        "são": [
+          3.8015,
+          2.0911
+        ],
+        "ser": [
+          3.688,
+          1.5579
+        ],
+        "ferramenta": [
+          3.0926,
+          3.707
+        ],
+        "possível": [
+          3.2326,
+          2.4403
+        ],
+        "partir": [
+          3.2115,
+          1.7932
+        ],
+        "foi": [
+          3.1187,
+          2.3614
+        ],
+        "precipitação": [
+          3.2602,
+          3.279
+        ],
+        "forma": [
+          3.1332,
+          1.5071
+        ],
+        "equação": [
+          2.9007,
+          3.6024
+        ],
+        "ou": [
+          2.885,
+          1.8398
+        ],
+        "modelo": [
+          2.9717,
+          5.1636
+        ],
+        "através": [
+          2.6794,
+          1.4327
+        ],
+        "cálculo": [
+          2.4681,
+          3.5117
+        ],
+        "séries": [
+          2.637,
+          2.7979
+        ],
+        "foram": [
+          2.5305,
+          1.9968
+        ],
+        "entre": [
+          2.5167,
+          1.4229
+        ],
+        "sua": [
+          2.4507,
+          0.9387
+        ],
+        "não": [
+          2.3887,
+          2.0648
+        ],
+        "também": [
+          2.2339,
+          1.6202
+        ],
+        "chuvas": [
+          2.2611,
+          3.9491
+        ],
+        "parâmetros": [
+          2.1282,
+          3.5295
+        ],
+        "precipitações": [
+          2.073,
+          2.6948
+        ],
+        "além": [
+          2.0343,
+          1.0398
+        ],
+        "estudos": [
+          2.1301,
+          3.7038
+        ],
+        "à": [
+          2.0097,
+          1.1386
+        ],
+        "já": [
+          1.982,
+          1.0763
+        ],
+        "nos": [
+          1.9342,
+          1.3414
+        ],
+        "base": [
+          1.9952,
+          2.4709
+        ],
+        "seu": [
+          1.7765,
+          1.0925
+        ],
+        "pelo": [
+          1.7861,
+          1.0463
+        ],
+        "uso": [
+          1.7799,
+          1.2913
+        ],
+        "sendo": [
+          1.7665,
+          0.9205
+        ],
+        "podem": [
+          1.7709,
+          1.0873
+        ],
+        "pela": [
+          1.7496,
+          0.8625
+        ],
+        "assim": [
+          1.7369,
+          0.9461
+        ],
+        "desenvolvimento": [
+          1.7155,
+          1.3516
+        ],
+        "pode": [
+          1.6882,
+          1.0031
+        ],
+        "cada": [
+          1.6986,
+          1.7507
+        ],
+        "cálculos": [
+          1.526,
+          2.3345
+        ],
+        "equações": [
+          1.5415,
+          2.7841
+        ],
+        "aos": [
+          1.5975,
+          0.9828
+        ],
+        "método": [
+          1.4999,
+          1.3424
+        ],
+        "áreas": [
+          1.5187,
+          3.7838
+        ],
+        "métodos": [
+          1.4642,
+          1.1194
+        ],
+        "isso": [
+          1.4534,
+          0.7301
+        ],
+        "diferentes": [
+          1.4637,
+          0.9295
+        ],
+        "climáticos": [
+          1.4883,
+          2.1771
+        ],
+        "am": [
+          1.4969,
+          2.1382
+        ],
+        "trabalho": [
+          1.3846,
+          1.1356
+        ],
+        "aplicação": [
+          1.3608,
+          1.9975
+        ],
+        "temporais": [
+          1.4145,
+          1.9493
+        ],
+        "análise": [
+          1.3398,
+          1.0663
+        ],
+        "processo": [
+          1.3288,
+          1.0576
+        ],
+        "idf": [
+          1.2606,
+          2.1347
+        ],
+        "apenas": [
+          1.307,
+          0.7144
+        ],
+        "pontos": [
+          1.3651,
+          1.8985
+        ],
+        "sd": [
+          1.3973,
+          1.9515
+        ],
+        "protensão": [
+          1.2632,
+          4.1923
+        ],
+        "presente": [
+          1.2682,
+          0.9123
+        ],
+        "chuva": [
+          1.3331,
+          2.1929
+        ],
+        "resultados": [
+          1.2032,
+          1.2227
+        ],
+        "relação": [
+          1.262,
+          0.8589
+        ],
+        "informações": [
+          1.2505,
+          0.9693
+        ],
+        "maior": [
+          1.2378,
+          0.9781
+        ],
+        "tabela": [
+          1.2287,
+          1.4204
+        ],
+        "cmip": [
+          1.3214,
+          2.1723
+        ],
+        "visto": [
+          1.2094,
+          0.8699
+        ],
+        "nas": [
+          1.2283,
+          0.8706
+        ],
+        "onde": [
+          1.2231,
+          0.7372
+        ],
+        "melhor": [
+          1.209,
+          1.061
+        ],
+        "mudanças": [
+          1.2168,
+          2.0415
+        ],
+        "climáticas": [
+          1.2145,
+          2.0319
+        ],
+        "cenários": [
+          1.2143,
+          1.9838
+        ]
+      },
+      "delta_own_chunks": {
+        "n": 20,
+        "mean": 0.861,
+        "sd": 0.107,
+        "min": 0.718,
+        "p10": 0.738,
+        "p25": 0.779,
+        "median": 0.84,
+        "p75": 0.911,
+        "p90": 1.038,
+        "max": 1.061
+      }
+    }
+  }
+}

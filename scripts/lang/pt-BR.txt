@@ -1,0 +1,728 @@
+# Recursos de idioma para o idiolect: português (Brasil).
+# Uma expressão por linha; linhas iniciadas por # são comentários.
+# Para outro idioma: copie este arquivo (ex.: en.txt), traduza as listas e rode com --lang en.
+
+[meta]
+iso: pt
+
+# Conectivos agrupados por função. Variantes próximas (dessa/desta forma) ficam separadas de propósito:
+# a preferência por uma delas é um traço de estilo. Palavras muito ambíguas (como, se, ainda) ficam de fora.
+[connectives.adicao]
+além disso
+além de
+ademais
+outrossim
+também
+bem como
+não só
+mas também
+somado a isso
+soma-se a isso
+acrescenta-se
+acresce que
+inclusive
+igualmente
+
+[connectives.contraste]
+entretanto
+contudo
+todavia
+no entanto
+porém
+mas
+embora
+apesar de
+apesar disso
+não obstante
+ao passo que
+por outro lado
+ainda que
+mesmo que
+em contrapartida
+ao contrário
+em contraste
+diferentemente
+
+[connectives.causa]
+porque
+pois
+uma vez que
+visto que
+já que
+dado que
+devido a
+em virtude de
+em razão de
+posto que
+haja vista
+tendo em vista
+em função de
+
+[connectives.conclusao]
+portanto
+assim
+dessa forma
+desta forma
+dessa maneira
+desta maneira
+desse modo
+deste modo
+logo
+por conseguinte
+consequentemente
+em suma
+em síntese
+em resumo
+por fim
+finalmente
+conclui-se
+assim sendo
+sendo assim
+diante disso
+diante do exposto
+isto posto
+com isso
+por isso
+de modo que
+de forma que
+de maneira que
+
+[connectives.explicacao_exemplo]
+por exemplo
+isto é
+ou seja
+a saber
+ou melhor
+em outras palavras
+tal como
+a exemplo de
+como exemplo
+cita-se
+
+[connectives.organizacao_topico]
+inicialmente
+primeiramente
+em primeiro lugar
+em segundo lugar
+em seguida
+posteriormente
+por sua vez
+a seguir
+nesse sentido
+neste sentido
+nesse contexto
+neste contexto
+nessa perspectiva
+nesta perspectiva
+nesse cenário
+neste cenário
+quanto a
+quanto ao
+no que se refere a
+no que se refere ao
+no que tange a
+no que tange ao
+no que diz respeito a
+no que diz respeito ao
+em relação a
+em relação ao
+com relação a
+com relação ao
+a partir de
+a partir disso
+
+[connectives.comparacao]
+assim como
+da mesma forma
+do mesmo modo
+da mesma maneira
+analogamente
+similarmente
+semelhantemente
+tal qual
+
+[connectives.finalidade]
+para que
+a fim de
+com o objetivo de
+com o intuito de
+com a finalidade de
+visando
+de modo a
+
+[connectives.enfase]
+de fato
+com efeito
+efetivamente
+sobretudo
+principalmente
+especialmente
+em especial
+notadamente
+particularmente
+
+# Atenuadores: suavizam ou relativizam afirmações.
+[hedges]
+pode
+podem
+poderia
+poderiam
+pode-se
+podem-se
+possivelmente
+provavelmente
+aparentemente
+presumivelmente
+talvez
+sugere
+sugerem
+sugere-se
+indica
+indicam
+indicando
+parece
+parecem
+tende
+tendem
+tende a
+em geral
+de modo geral
+de maneira geral
+de certo modo
+de certa forma
+em certa medida
+em alguma medida
+relativamente
+aproximadamente
+acredita-se
+supõe-se
+estima-se
+infere-se
+pode-se inferir
+é possível
+seria possível
+não necessariamente
+
+# Intensificadores: reforçam certeza ou importância.
+[boosters]
+evidencia
+evidenciam
+evidencia-se
+demonstra
+demonstram
+demonstra-se
+comprova
+comprovam
+confirma
+confirmam
+claramente
+certamente
+sem dúvida
+indubitavelmente
+inegavelmente
+de fato
+efetivamente
+notadamente
+fundamental
+essencial
+imprescindível
+crucial
+indispensável
+evidente
+inegável
+significativamente
+consideravelmente
+expressivamente
+sempre
+nunca
+é importante ressaltar
+é importante destacar
+cabe ressaltar
+cabe destacar
+vale ressaltar
+vale destacar
+destaca-se
+ressalta-se
+
+# Construções impessoais.
+[impersonal]
+é possível
+é necessário
+é preciso
+é importante
+é fundamental
+é válido
+é notório
+é evidente
+faz-se necessário
+torna-se necessário
+nota-se
+observa-se
+verifica-se
+percebe-se
+constata-se
+considera-se
+entende-se
+compreende-se
+tem-se
+há
+existe
+existem
+trata-se
+
+# Expressões frequentes em textos de LLM. Só são sinalizadas quando o próprio autor quase não as usa.
+[ai_markers]
+crucial
+robusto
+robusta
+abrangente
+multifacetado
+multifacetada
+intrincado
+intrincada
+tapeçaria
+panorama
+cenário atual
+no cenário atual
+nesse cenário
+desempenha um papel
+desempenha papel fundamental
+papel crucial
+papel fundamental
+vale ressaltar
+vale destacar
+é importante ressaltar
+é importante destacar
+é importante notar
+cabe ressaltar
+em suma
+em última análise
+além disso
+ademais
+nesse contexto
+neste contexto
+dessa forma
+sinergia
+alavancar
+potencializar
+otimizar
+holístico
+holística
+mergulhar
+explorar
+jornada
+paradigma
+inovador
+inovadora
+transformador
+transformadora
+fomentar
+navegar
+complexidades
+nuances
+
+# Primeira pessoa. Verbos em -amos/-emos/-imos/-omos são detectados automaticamente;
+# a lista de exclusões traz palavras com essas terminações que não são verbos.
+[first_person.singular]
+eu
+me
+mim
+comigo
+meu
+minha
+meus
+minhas
+
+[first_person.plural]
+nós
+conosco
+nosso
+nossa
+nossos
+nossas
+
+[first_person.verb_exclusions]
+ramos
+remos
+mínimos
+máximos
+últimos
+próximos
+ótimos
+ínfimos
+extremos
+supremos
+legítimos
+íntimos
+anônimos
+sinônimos
+antônimos
+homônimos
+primos
+átomos
+tomos
+cromossomos
+ribossomos
+lisossomos
+autônomos
+agrônomos
+astrônomos
+ecônomos
+gastrônomos
+
+# Abreviações cujo ponto não encerra a frase.
+[abbreviations]
+et al.
+p.
+pp.
+fig.
+figs.
+tab.
+eq.
+eqs.
+cap.
+caps.
+sec.
+n.
+nº.
+v.
+vol.
+ed.
+eds.
+org.
+orgs.
+coord.
+cf.
+i.e.
+e.g.
+op. cit.
+id.
+ibid.
+apud.
+séc.
+aprox.
+art.
+arts.
+inc.
+min.
+máx.
+sr.
+sra.
+dr.
+dra.
+prof.
+profa.
+s.d.
+s.l.
+s.n.
+km.
+ex.
+obs.
+
+# Títulos de seção -> nome canônico. Regex aplicada ao título em minúsculas, sem acentos e sem numeração.
+# A primeira regra que casar vence. Seções ignoradas na análise: front_matter, references, acknowledgements, appendix.
+[sections]
+front_matter: ^(lista d|sumario|folha de aprovacao|dedicatoria|epigrafe|ficha catalografica|contribuic(ao|oes) de autoria|declarac|errata|palavras-chave|keywords)
+abstract: ^(resumo|abstract|resumen)\b
+introduction: ^(introduc|objetivos?\b|justificativa|motivacao|problema de pesquisa)
+literature_review: ^(referencial|fundamenta|revisao|estado da arte|marco teorico|aspectos teoricos|base teorica|contextualizacao teorica)
+methodology: ^(metodolog|aspectos metodologicos|materia(l|is) e metodos?|metodos?\b|procedimentos? metodologicos?|percurso metodologico|delineamento|desenvolvimento$|tipo de pesquisa)
+results_discussion: ^(resultados e discuss|analise e discuss|resultados e analise|apresentacao e (analise|discussao))
+results: ^(resultados?|apresentacao dos resultados)\b
+discussion: ^(discuss|analise dos resultados)
+conclusion: ^(conclus|consideracoes finais|consideracoes|sintese final)
+references: ^(referencias|bibliografia|references|obras citadas)
+acknowledgements: ^(agradecimentos?|acknowledg)
+appendix: ^(apendice|anexo|appendix)
+
+# Palavras gramaticais excluídas das listas de vocabulário (continuam nas métricas de ritmo e no Delta).
+[stopwords]
+a
+à
+às
+ao
+aos
+as
+o
+os
+um
+uma
+uns
+umas
+de
+da
+das
+do
+dos
+dum
+duma
+em
+na
+nas
+no
+nos
+num
+numa
+por
+pela
+pelas
+pelo
+pelos
+para
+pra
+com
+sem
+sob
+sobre
+entre
+até
+após
+ante
+perante
+desde
+contra
+trás
+e
+ou
+nem
+mas
+que
+se
+como
+quando
+onde
+quanto
+quanta
+quantos
+quantas
+qual
+quais
+quem
+cujo
+cuja
+cujos
+cujas
+porque
+pois
+porém
+também
+já
+ainda
+mais
+menos
+muito
+muita
+muitos
+muitas
+pouco
+pouca
+poucos
+poucas
+tão
+tanto
+tanta
+tantos
+tantas
+todo
+toda
+todos
+todas
+tudo
+nada
+algo
+alguém
+ninguém
+algum
+alguma
+alguns
+algumas
+nenhum
+nenhuma
+outro
+outra
+outros
+outras
+mesmo
+mesma
+mesmos
+mesmas
+cada
+certo
+certa
+certos
+certas
+vários
+várias
+este
+esta
+estes
+estas
+esse
+essa
+esses
+essas
+aquele
+aquela
+aqueles
+aquelas
+isto
+isso
+aquilo
+deste
+desta
+destes
+destas
+desse
+dessa
+desses
+dessas
+daquele
+daquela
+daqueles
+daquelas
+disto
+disso
+daquilo
+neste
+nesta
+nestes
+nestas
+nesse
+nessa
+nesses
+nessas
+naquele
+naquela
+naqueles
+naquelas
+nisto
+nisso
+naquilo
+ele
+ela
+eles
+elas
+dele
+dela
+deles
+delas
+nele
+nela
+neles
+nelas
+eu
+tu
+você
+vocês
+nós
+vós
+me
+te
+lhe
+lhes
+nos
+vos
+mim
+ti
+si
+meu
+minha
+meus
+minhas
+teu
+tua
+seu
+sua
+seus
+suas
+nosso
+nossa
+nossos
+nossas
+não
+sim
+só
+apenas
+bem
+mal
+assim
+então
+lá
+aqui
+aí
+ali
+cá
+é
+são
+era
+eram
+foi
+foram
+fosse
+fossem
+for
+forem
+será
+serão
+seria
+seriam
+ser
+sido
+sendo
+seja
+sejam
+está
+estão
+estava
+estavam
+esteve
+estiveram
+estar
+estado
+estando
+esteja
+estejam
+tem
+têm
+tinha
+tinham
+teve
+tiveram
+ter
+tido
+tendo
+tenha
+tenham
+terá
+terão
+teria
+teriam
+há
+havia
+houve
+haver
+haja
+hajam
+haverá
+pode
+podem
+poderia
+poderiam
+poder
+deve
+devem
+deveria
+deveriam
+dever
+vai
+vão
+ir
+faz
+fazem
+fazer
+feito
+feita
+lo
+la
+los
+las
