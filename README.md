@@ -1,29 +1,34 @@
 # idiolect
 
-Faça uma LLM escrever **como você**. Coloque seus textos acadêmicos (TCC, dissertação, tese, artigos) em
+Faça uma LLM escrever **como você**. Coloque seus textos acadêmicos (trabalho de conclusão de curso, dissertação, tese, artigos) em
 `data/`, rode o comando de configuração, e depois peça textos sobre qualquer tema no seu estilo:
 mesmo vocabulário, conectivos, ritmo e forma de argumentar.
 
-O processo é reproduzível: qualquer pessoa pode clonar este repositório, trocar os textos de `data/` pelos
+O processo é reproduzível: qualquer pessoa pode clonar este repositório, trocar os textos em markdown de `data/` pelos
 seus e obter o próprio perfil.
 
 ## Uso rápido
 
 1. **Coloque seus textos em `data/`**, um arquivo `.md` por trabalho (detalhes abaixo).
-2. **Abra a pasta num agente de IA** com acesso aos arquivos (Claude Code, Codex, Cursor, Gemini...) e digite:
+  
+2. **Abra a pasta num agente de IA** com acesso aos arquivos (Claude Code, Codex, Cursor, Gemini...) e digite:  
+   ```
    > idiolect setup
-3. **Peça seus textos:**
+   ```  
+  
+4. **Peça seus textos:**  
+   ```
    > idiolect escreva uma introdução sobre o uso de energia solar em escolas públicas, ~500 palavras
+   ```  
 
 Os comandos são texto no início da mensagem, definidos no `AGENTS.md`, e funcionam em qualquer agente. Sem
 `idiolect` ou `idiolect setup`, o agente trata o pedido como uma conversa comum. As instruções de cada comando
 ficam em `skills/`:
 
 - **`idiolect setup`** roda a análise, lê seus textos, escreve o perfil em `profile/` e faz um texto de teste.
-- **`idiolect <pedido>`** escreve, mede o resultado contra os seus textos, corrige o que destoa e entrega.
-  Também revisa textos ("isso soa como eu?") e ajusta o perfil quando você diz o que não soou como você.
+- **`idiolect <pedido>`** escreve, mede o resultado contra os seus textos, corrige o que destoa e entrega. Também revisa textos ("isso soa como eu?") e ajusta o perfil quando você diz o que não soou como você.
 
-Requisito: Python 3.9 ou superior. Não há nada para instalar.
+> Requisito: Python 3.9 ou superior. Não há nada para instalar.
 
 ## Como funciona
 
